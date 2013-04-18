@@ -38,3 +38,6 @@ nosetests.xml
 *.odp
 .settings
 ontology/
+src/lib/
+src/pg/
+src/sqlite
