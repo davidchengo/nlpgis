@@ -1,7 +1,0 @@
-Index|Name|Description
-1|NEW_SELECTION|The resulting selection replaces any existing selection. This is the default.
-2|ADD_TO_SELECTION|The resulting selection is added to an existing selection if one exists. If no selection exists, this is the same as the NEW_SELECTION option.
-3|REMOVE_FROM_SELECTION|The resulting selection is removed from an existing selection. If no selection exists, this option has no effect.
-4|SUBSET_SELECTION|The resulting selection is combined with the existing selection. Only records that are common to both remain selected.
-5|SWITCH_SELECTION|Switches the selection. All records that were selected are removed from the selection; all records that were not selected are added to the selection. The Expression is ignored when this option is specified.
-6|CLEAR_SELECTION|Clears or removes any selection. The Expression is ignored when this option is specified.
