@@ -1,0 +1,1309 @@
+
+#	Location Question
+Where BE X? 
+where is X
+where are X
+where is X located
+where are X located
+
+#	Proximity Entity Question
+What|Where|Which are the CD JJS NNS IN X? 
+where is the CD nearest NNS from X
+where is the CD nearest NNS to X
+where is the CD nearest NNS around X
+where is the CD nearest NNS near X
+where is the CD nearest NNS by X
+where is the CD nearest NNS neighboring X
+where is the CD closest NNS from X
+where is the CD closest NNS to X
+where is the CD closest NNS around X
+where is the CD closest NNS near X
+where is the CD closest NNS by X
+where is the CD closest NNS neighboring X
+where is the CD close-by NNS from X
+where is the CD close-by NNS to X
+where is the CD close-by NNS around X
+where is the CD close-by NNS near X
+where is the CD close-by NNS by X
+where is the CD close-by NNS neighboring X
+where is the CD nearby NNS from X
+where is the CD nearby NNS to X
+where is the CD nearby NNS around X
+where is the CD nearby NNS near X
+where is the CD nearby NNS by X
+where is the CD nearby NNS neighboring X
+where is the CD neighboring NNS from X
+where is the CD neighboring NNS to X
+where is the CD neighboring NNS around X
+where is the CD neighboring NNS near X
+where is the CD neighboring NNS by X
+where is the CD neighboring NNS neighboring X
+where is the CD distant NNS from X
+where is the CD distant NNS to X
+where is the CD distant NNS around X
+where is the CD distant NNS near X
+where is the CD distant NNS by X
+where is the CD distant NNS neighboring X
+where is the CD farthest NNS from X
+where is the CD farthest NNS to X
+where is the CD farthest NNS around X
+where is the CD farthest NNS near X
+where is the CD farthest NNS by X
+where is the CD farthest NNS neighboring X
+where is the CD furthest NNS from X
+where is the CD furthest NNS to X
+where is the CD furthest NNS around X
+where is the CD furthest NNS near X
+where is the CD furthest NNS by X
+where is the CD furthest NNS neighboring X
+where is the CD remote NNS from X
+where is the CD remote NNS to X
+where is the CD remote NNS around X
+where is the CD remote NNS near X
+where is the CD remote NNS by X
+where is the CD remote NNS neighboring X
+where is the  nearest NNS from X
+where is the  nearest NNS to X
+where is the  nearest NNS around X
+where is the  nearest NNS near X
+where is the  nearest NNS by X
+where is the  nearest NNS neighboring X
+where is the  closest NNS from X
+where is the  closest NNS to X
+where is the  closest NNS around X
+where is the  closest NNS near X
+where is the  closest NNS by X
+where is the  closest NNS neighboring X
+where is the  close-by NNS from X
+where is the  close-by NNS to X
+where is the  close-by NNS around X
+where is the  close-by NNS near X
+where is the  close-by NNS by X
+where is the  close-by NNS neighboring X
+where is the  nearby NNS from X
+where is the  nearby NNS to X
+where is the  nearby NNS around X
+where is the  nearby NNS near X
+where is the  nearby NNS by X
+where is the  nearby NNS neighboring X
+where is the  neighboring NNS from X
+where is the  neighboring NNS to X
+where is the  neighboring NNS around X
+where is the  neighboring NNS near X
+where is the  neighboring NNS by X
+where is the  neighboring NNS neighboring X
+where is the  distant NNS from X
+where is the  distant NNS to X
+where is the  distant NNS around X
+where is the  distant NNS near X
+where is the  distant NNS by X
+where is the  distant NNS neighboring X
+where is the  farthest NNS from X
+where is the  farthest NNS to X
+where is the  farthest NNS around X
+where is the  farthest NNS near X
+where is the  farthest NNS by X
+where is the  farthest NNS neighboring X
+where is the  furthest NNS from X
+where is the  furthest NNS to X
+where is the  furthest NNS around X
+where is the  furthest NNS near X
+where is the  furthest NNS by X
+where is the  furthest NNS neighboring X
+where is the  remote NNS from X
+where is the  remote NNS to X
+where is the  remote NNS around X
+where is the  remote NNS near X
+where is the  remote NNS by X
+where is the  remote NNS neighboring X
+where are the CD nearest NNS from X
+where are the CD nearest NNS to X
+where are the CD nearest NNS around X
+where are the CD nearest NNS near X
+where are the CD nearest NNS by X
+where are the CD nearest NNS neighboring X
+where are the CD closest NNS from X
+where are the CD closest NNS to X
+where are the CD closest NNS around X
+where are the CD closest NNS near X
+where are the CD closest NNS by X
+where are the CD closest NNS neighboring X
+where are the CD close-by NNS from X
+where are the CD close-by NNS to X
+where are the CD close-by NNS around X
+where are the CD close-by NNS near X
+where are the CD close-by NNS by X
+where are the CD close-by NNS neighboring X
+where are the CD nearby NNS from X
+where are the CD nearby NNS to X
+where are the CD nearby NNS around X
+where are the CD nearby NNS near X
+where are the CD nearby NNS by X
+where are the CD nearby NNS neighboring X
+where are the CD neighboring NNS from X
+where are the CD neighboring NNS to X
+where are the CD neighboring NNS around X
+where are the CD neighboring NNS near X
+where are the CD neighboring NNS by X
+where are the CD neighboring NNS neighboring X
+where are the CD distant NNS from X
+where are the CD distant NNS to X
+where are the CD distant NNS around X
+where are the CD distant NNS near X
+where are the CD distant NNS by X
+where are the CD distant NNS neighboring X
+where are the CD farthest NNS from X
+where are the CD farthest NNS to X
+where are the CD farthest NNS around X
+where are the CD farthest NNS near X
+where are the CD farthest NNS by X
+where are the CD farthest NNS neighboring X
+where are the CD furthest NNS from X
+where are the CD furthest NNS to X
+where are the CD furthest NNS around X
+where are the CD furthest NNS near X
+where are the CD furthest NNS by X
+where are the CD furthest NNS neighboring X
+where are the CD remote NNS from X
+where are the CD remote NNS to X
+where are the CD remote NNS around X
+where are the CD remote NNS near X
+where are the CD remote NNS by X
+where are the CD remote NNS neighboring X
+where are the  nearest NNS from X
+where are the  nearest NNS to X
+where are the  nearest NNS around X
+where are the  nearest NNS near X
+where are the  nearest NNS by X
+where are the  nearest NNS neighboring X
+where are the  closest NNS from X
+where are the  closest NNS to X
+where are the  closest NNS around X
+where are the  closest NNS near X
+where are the  closest NNS by X
+where are the  closest NNS neighboring X
+where are the  close-by NNS from X
+where are the  close-by NNS to X
+where are the  close-by NNS around X
+where are the  close-by NNS near X
+where are the  close-by NNS by X
+where are the  close-by NNS neighboring X
+where are the  nearby NNS from X
+where are the  nearby NNS to X
+where are the  nearby NNS around X
+where are the  nearby NNS near X
+where are the  nearby NNS by X
+where are the  nearby NNS neighboring X
+where are the  neighboring NNS from X
+where are the  neighboring NNS to X
+where are the  neighboring NNS around X
+where are the  neighboring NNS near X
+where are the  neighboring NNS by X
+where are the  neighboring NNS neighboring X
+where are the  distant NNS from X
+where are the  distant NNS to X
+where are the  distant NNS around X
+where are the  distant NNS near X
+where are the  distant NNS by X
+where are the  distant NNS neighboring X
+where are the  farthest NNS from X
+where are the  farthest NNS to X
+where are the  farthest NNS around X
+where are the  farthest NNS near X
+where are the  farthest NNS by X
+where are the  farthest NNS neighboring X
+where are the  furthest NNS from X
+where are the  furthest NNS to X
+where are the  furthest NNS around X
+where are the  furthest NNS near X
+where are the  furthest NNS by X
+where are the  furthest NNS neighboring X
+where are the  remote NNS from X
+where are the  remote NNS to X
+where are the  remote NNS around X
+where are the  remote NNS near X
+where are the  remote NNS by X
+where are the  remote NNS neighboring X
+what is the CD nearest NNS from X
+what is the CD nearest NNS to X
+what is the CD nearest NNS around X
+what is the CD nearest NNS near X
+what is the CD nearest NNS by X
+what is the CD nearest NNS neighboring X
+what is the CD closest NNS from X
+what is the CD closest NNS to X
+what is the CD closest NNS around X
+what is the CD closest NNS near X
+what is the CD closest NNS by X
+what is the CD closest NNS neighboring X
+what is the CD close-by NNS from X
+what is the CD close-by NNS to X
+what is the CD close-by NNS around X
+what is the CD close-by NNS near X
+what is the CD close-by NNS by X
+what is the CD close-by NNS neighboring X
+what is the CD nearby NNS from X
+what is the CD nearby NNS to X
+what is the CD nearby NNS around X
+what is the CD nearby NNS near X
+what is the CD nearby NNS by X
+what is the CD nearby NNS neighboring X
+what is the CD neighboring NNS from X
+what is the CD neighboring NNS to X
+what is the CD neighboring NNS around X
+what is the CD neighboring NNS near X
+what is the CD neighboring NNS by X
+what is the CD neighboring NNS neighboring X
+what is the CD distant NNS from X
+what is the CD distant NNS to X
+what is the CD distant NNS around X
+what is the CD distant NNS near X
+what is the CD distant NNS by X
+what is the CD distant NNS neighboring X
+what is the CD farthest NNS from X
+what is the CD farthest NNS to X
+what is the CD farthest NNS around X
+what is the CD farthest NNS near X
+what is the CD farthest NNS by X
+what is the CD farthest NNS neighboring X
+what is the CD furthest NNS from X
+what is the CD furthest NNS to X
+what is the CD furthest NNS around X
+what is the CD furthest NNS near X
+what is the CD furthest NNS by X
+what is the CD furthest NNS neighboring X
+what is the CD remote NNS from X
+what is the CD remote NNS to X
+what is the CD remote NNS around X
+what is the CD remote NNS near X
+what is the CD remote NNS by X
+what is the CD remote NNS neighboring X
+what is the  nearest NNS from X
+what is the  nearest NNS to X
+what is the  nearest NNS around X
+what is the  nearest NNS near X
+what is the  nearest NNS by X
+what is the  nearest NNS neighboring X
+what is the  closest NNS from X
+what is the  closest NNS to X
+what is the  closest NNS around X
+what is the  closest NNS near X
+what is the  closest NNS by X
+what is the  closest NNS neighboring X
+what is the  close-by NNS from X
+what is the  close-by NNS to X
+what is the  close-by NNS around X
+what is the  close-by NNS near X
+what is the  close-by NNS by X
+what is the  close-by NNS neighboring X
+what is the  nearby NNS from X
+what is the  nearby NNS to X
+what is the  nearby NNS around X
+what is the  nearby NNS near X
+what is the  nearby NNS by X
+what is the  nearby NNS neighboring X
+what is the  neighboring NNS from X
+what is the  neighboring NNS to X
+what is the  neighboring NNS around X
+what is the  neighboring NNS near X
+what is the  neighboring NNS by X
+what is the  neighboring NNS neighboring X
+what is the  distant NNS from X
+what is the  distant NNS to X
+what is the  distant NNS around X
+what is the  distant NNS near X
+what is the  distant NNS by X
+what is the  distant NNS neighboring X
+what is the  farthest NNS from X
+what is the  farthest NNS to X
+what is the  farthest NNS around X
+what is the  farthest NNS near X
+what is the  farthest NNS by X
+what is the  farthest NNS neighboring X
+what is the  furthest NNS from X
+what is the  furthest NNS to X
+what is the  furthest NNS around X
+what is the  furthest NNS near X
+what is the  furthest NNS by X
+what is the  furthest NNS neighboring X
+what is the  remote NNS from X
+what is the  remote NNS to X
+what is the  remote NNS around X
+what is the  remote NNS near X
+what is the  remote NNS by X
+what is the  remote NNS neighboring X
+what are the CD nearest NNS from X
+what are the CD nearest NNS to X
+what are the CD nearest NNS around X
+what are the CD nearest NNS near X
+what are the CD nearest NNS by X
+what are the CD nearest NNS neighboring X
+what are the CD closest NNS from X
+what are the CD closest NNS to X
+what are the CD closest NNS around X
+what are the CD closest NNS near X
+what are the CD closest NNS by X
+what are the CD closest NNS neighboring X
+what are the CD close-by NNS from X
+what are the CD close-by NNS to X
+what are the CD close-by NNS around X
+what are the CD close-by NNS near X
+what are the CD close-by NNS by X
+what are the CD close-by NNS neighboring X
+what are the CD nearby NNS from X
+what are the CD nearby NNS to X
+what are the CD nearby NNS around X
+what are the CD nearby NNS near X
+what are the CD nearby NNS by X
+what are the CD nearby NNS neighboring X
+what are the CD neighboring NNS from X
+what are the CD neighboring NNS to X
+what are the CD neighboring NNS around X
+what are the CD neighboring NNS near X
+what are the CD neighboring NNS by X
+what are the CD neighboring NNS neighboring X
+what are the CD distant NNS from X
+what are the CD distant NNS to X
+what are the CD distant NNS around X
+what are the CD distant NNS near X
+what are the CD distant NNS by X
+what are the CD distant NNS neighboring X
+what are the CD farthest NNS from X
+what are the CD farthest NNS to X
+what are the CD farthest NNS around X
+what are the CD farthest NNS near X
+what are the CD farthest NNS by X
+what are the CD farthest NNS neighboring X
+what are the CD furthest NNS from X
+what are the CD furthest NNS to X
+what are the CD furthest NNS around X
+what are the CD furthest NNS near X
+what are the CD furthest NNS by X
+what are the CD furthest NNS neighboring X
+what are the CD remote NNS from X
+what are the CD remote NNS to X
+what are the CD remote NNS around X
+what are the CD remote NNS near X
+what are the CD remote NNS by X
+what are the CD remote NNS neighboring X
+what are the  nearest NNS from X
+what are the  nearest NNS to X
+what are the  nearest NNS around X
+what are the  nearest NNS near X
+what are the  nearest NNS by X
+what are the  nearest NNS neighboring X
+what are the  closest NNS from X
+what are the  closest NNS to X
+what are the  closest NNS around X
+what are the  closest NNS near X
+what are the  closest NNS by X
+what are the  closest NNS neighboring X
+what are the  close-by NNS from X
+what are the  close-by NNS to X
+what are the  close-by NNS around X
+what are the  close-by NNS near X
+what are the  close-by NNS by X
+what are the  close-by NNS neighboring X
+what are the  nearby NNS from X
+what are the  nearby NNS to X
+what are the  nearby NNS around X
+what are the  nearby NNS near X
+what are the  nearby NNS by X
+what are the  nearby NNS neighboring X
+what are the  neighboring NNS from X
+what are the  neighboring NNS to X
+what are the  neighboring NNS around X
+what are the  neighboring NNS near X
+what are the  neighboring NNS by X
+what are the  neighboring NNS neighboring X
+what are the  distant NNS from X
+what are the  distant NNS to X
+what are the  distant NNS around X
+what are the  distant NNS near X
+what are the  distant NNS by X
+what are the  distant NNS neighboring X
+what are the  farthest NNS from X
+what are the  farthest NNS to X
+what are the  farthest NNS around X
+what are the  farthest NNS near X
+what are the  farthest NNS by X
+what are the  farthest NNS neighboring X
+what are the  furthest NNS from X
+what are the  furthest NNS to X
+what are the  furthest NNS around X
+what are the  furthest NNS near X
+what are the  furthest NNS by X
+what are the  furthest NNS neighboring X
+what are the  remote NNS from X
+what are the  remote NNS to X
+what are the  remote NNS around X
+what are the  remote NNS near X
+what are the  remote NNS by X
+what are the  remote NNS neighboring X
+which is the CD nearest NNS from X
+which is the CD nearest NNS to X
+which is the CD nearest NNS around X
+which is the CD nearest NNS near X
+which is the CD nearest NNS by X
+which is the CD nearest NNS neighboring X
+which is the CD closest NNS from X
+which is the CD closest NNS to X
+which is the CD closest NNS around X
+which is the CD closest NNS near X
+which is the CD closest NNS by X
+which is the CD closest NNS neighboring X
+which is the CD close-by NNS from X
+which is the CD close-by NNS to X
+which is the CD close-by NNS around X
+which is the CD close-by NNS near X
+which is the CD close-by NNS by X
+which is the CD close-by NNS neighboring X
+which is the CD nearby NNS from X
+which is the CD nearby NNS to X
+which is the CD nearby NNS around X
+which is the CD nearby NNS near X
+which is the CD nearby NNS by X
+which is the CD nearby NNS neighboring X
+which is the CD neighboring NNS from X
+which is the CD neighboring NNS to X
+which is the CD neighboring NNS around X
+which is the CD neighboring NNS near X
+which is the CD neighboring NNS by X
+which is the CD neighboring NNS neighboring X
+which is the CD distant NNS from X
+which is the CD distant NNS to X
+which is the CD distant NNS around X
+which is the CD distant NNS near X
+which is the CD distant NNS by X
+which is the CD distant NNS neighboring X
+which is the CD farthest NNS from X
+which is the CD farthest NNS to X
+which is the CD farthest NNS around X
+which is the CD farthest NNS near X
+which is the CD farthest NNS by X
+which is the CD farthest NNS neighboring X
+which is the CD furthest NNS from X
+which is the CD furthest NNS to X
+which is the CD furthest NNS around X
+which is the CD furthest NNS near X
+which is the CD furthest NNS by X
+which is the CD furthest NNS neighboring X
+which is the CD remote NNS from X
+which is the CD remote NNS to X
+which is the CD remote NNS around X
+which is the CD remote NNS near X
+which is the CD remote NNS by X
+which is the CD remote NNS neighboring X
+which is the  nearest NNS from X
+which is the  nearest NNS to X
+which is the  nearest NNS around X
+which is the  nearest NNS near X
+which is the  nearest NNS by X
+which is the  nearest NNS neighboring X
+which is the  closest NNS from X
+which is the  closest NNS to X
+which is the  closest NNS around X
+which is the  closest NNS near X
+which is the  closest NNS by X
+which is the  closest NNS neighboring X
+which is the  close-by NNS from X
+which is the  close-by NNS to X
+which is the  close-by NNS around X
+which is the  close-by NNS near X
+which is the  close-by NNS by X
+which is the  close-by NNS neighboring X
+which is the  nearby NNS from X
+which is the  nearby NNS to X
+which is the  nearby NNS around X
+which is the  nearby NNS near X
+which is the  nearby NNS by X
+which is the  nearby NNS neighboring X
+which is the  neighboring NNS from X
+which is the  neighboring NNS to X
+which is the  neighboring NNS around X
+which is the  neighboring NNS near X
+which is the  neighboring NNS by X
+which is the  neighboring NNS neighboring X
+which is the  distant NNS from X
+which is the  distant NNS to X
+which is the  distant NNS around X
+which is the  distant NNS near X
+which is the  distant NNS by X
+which is the  distant NNS neighboring X
+which is the  farthest NNS from X
+which is the  farthest NNS to X
+which is the  farthest NNS around X
+which is the  farthest NNS near X
+which is the  farthest NNS by X
+which is the  farthest NNS neighboring X
+which is the  furthest NNS from X
+which is the  furthest NNS to X
+which is the  furthest NNS around X
+which is the  furthest NNS near X
+which is the  furthest NNS by X
+which is the  furthest NNS neighboring X
+which is the  remote NNS from X
+which is the  remote NNS to X
+which is the  remote NNS around X
+which is the  remote NNS near X
+which is the  remote NNS by X
+which is the  remote NNS neighboring X
+which are the CD nearest NNS from X
+which are the CD nearest NNS to X
+which are the CD nearest NNS around X
+which are the CD nearest NNS near X
+which are the CD nearest NNS by X
+which are the CD nearest NNS neighboring X
+which are the CD closest NNS from X
+which are the CD closest NNS to X
+which are the CD closest NNS around X
+which are the CD closest NNS near X
+which are the CD closest NNS by X
+which are the CD closest NNS neighboring X
+which are the CD close-by NNS from X
+which are the CD close-by NNS to X
+which are the CD close-by NNS around X
+which are the CD close-by NNS near X
+which are the CD close-by NNS by X
+which are the CD close-by NNS neighboring X
+which are the CD nearby NNS from X
+which are the CD nearby NNS to X
+which are the CD nearby NNS around X
+which are the CD nearby NNS near X
+which are the CD nearby NNS by X
+which are the CD nearby NNS neighboring X
+which are the CD neighboring NNS from X
+which are the CD neighboring NNS to X
+which are the CD neighboring NNS around X
+which are the CD neighboring NNS near X
+which are the CD neighboring NNS by X
+which are the CD neighboring NNS neighboring X
+which are the CD distant NNS from X
+which are the CD distant NNS to X
+which are the CD distant NNS around X
+which are the CD distant NNS near X
+which are the CD distant NNS by X
+which are the CD distant NNS neighboring X
+which are the CD farthest NNS from X
+which are the CD farthest NNS to X
+which are the CD farthest NNS around X
+which are the CD farthest NNS near X
+which are the CD farthest NNS by X
+which are the CD farthest NNS neighboring X
+which are the CD furthest NNS from X
+which are the CD furthest NNS to X
+which are the CD furthest NNS around X
+which are the CD furthest NNS near X
+which are the CD furthest NNS by X
+which are the CD furthest NNS neighboring X
+which are the CD remote NNS from X
+which are the CD remote NNS to X
+which are the CD remote NNS around X
+which are the CD remote NNS near X
+which are the CD remote NNS by X
+which are the CD remote NNS neighboring X
+which are the  nearest NNS from X
+which are the  nearest NNS to X
+which are the  nearest NNS around X
+which are the  nearest NNS near X
+which are the  nearest NNS by X
+which are the  nearest NNS neighboring X
+which are the  closest NNS from X
+which are the  closest NNS to X
+which are the  closest NNS around X
+which are the  closest NNS near X
+which are the  closest NNS by X
+which are the  closest NNS neighboring X
+which are the  close-by NNS from X
+which are the  close-by NNS to X
+which are the  close-by NNS around X
+which are the  close-by NNS near X
+which are the  close-by NNS by X
+which are the  close-by NNS neighboring X
+which are the  nearby NNS from X
+which are the  nearby NNS to X
+which are the  nearby NNS around X
+which are the  nearby NNS near X
+which are the  nearby NNS by X
+which are the  nearby NNS neighboring X
+which are the  neighboring NNS from X
+which are the  neighboring NNS to X
+which are the  neighboring NNS around X
+which are the  neighboring NNS near X
+which are the  neighboring NNS by X
+which are the  neighboring NNS neighboring X
+which are the  distant NNS from X
+which are the  distant NNS to X
+which are the  distant NNS around X
+which are the  distant NNS near X
+which are the  distant NNS by X
+which are the  distant NNS neighboring X
+which are the  farthest NNS from X
+which are the  farthest NNS to X
+which are the  farthest NNS around X
+which are the  farthest NNS near X
+which are the  farthest NNS by X
+which are the  farthest NNS neighboring X
+which are the  furthest NNS from X
+which are the  furthest NNS to X
+which are the  furthest NNS around X
+which are the  furthest NNS near X
+which are the  furthest NNS by X
+which are the  furthest NNS neighboring X
+which are the  remote NNS from X
+which are the  remote NNS to X
+which are the  remote NNS around X
+which are the  remote NNS near X
+which are the  remote NNS by X
+which are the  remote NNS neighboring X
+
+#	Proximity Entity Question
+What|Which CD NNS are the JJS IN X? 
+where CD NNS is the nearest from X
+where CD NNS is the nearest to X
+where CD NNS is the nearest around X
+where CD NNS is the nearest near X
+where CD NNS is the nearest by X
+where CD NNS is the nearest neighboring X
+where CD NNS is the closest from X
+where CD NNS is the closest to X
+where CD NNS is the closest around X
+where CD NNS is the closest near X
+where CD NNS is the closest by X
+where CD NNS is the closest neighboring X
+where CD NNS is the close-by from X
+where CD NNS is the close-by to X
+where CD NNS is the close-by around X
+where CD NNS is the close-by near X
+where CD NNS is the close-by by X
+where CD NNS is the close-by neighboring X
+where CD NNS is the nearby from X
+where CD NNS is the nearby to X
+where CD NNS is the nearby around X
+where CD NNS is the nearby near X
+where CD NNS is the nearby by X
+where CD NNS is the nearby neighboring X
+where CD NNS is the neighboring from X
+where CD NNS is the neighboring to X
+where CD NNS is the neighboring around X
+where CD NNS is the neighboring near X
+where CD NNS is the neighboring by X
+where CD NNS is the neighboring neighboring X
+where CD NNS is the distant from X
+where CD NNS is the distant to X
+where CD NNS is the distant around X
+where CD NNS is the distant near X
+where CD NNS is the distant by X
+where CD NNS is the distant neighboring X
+where CD NNS is the farthest from X
+where CD NNS is the farthest to X
+where CD NNS is the farthest around X
+where CD NNS is the farthest near X
+where CD NNS is the farthest by X
+where CD NNS is the farthest neighboring X
+where CD NNS is the furthest from X
+where CD NNS is the furthest to X
+where CD NNS is the furthest around X
+where CD NNS is the furthest near X
+where CD NNS is the furthest by X
+where CD NNS is the furthest neighboring X
+where CD NNS is the remote from X
+where CD NNS is the remote to X
+where CD NNS is the remote around X
+where CD NNS is the remote near X
+where CD NNS is the remote by X
+where CD NNS is the remote neighboring X
+where  NNS is the nearest from X
+where  NNS is the nearest to X
+where  NNS is the nearest around X
+where  NNS is the nearest near X
+where  NNS is the nearest by X
+where  NNS is the nearest neighboring X
+where  NNS is the closest from X
+where  NNS is the closest to X
+where  NNS is the closest around X
+where  NNS is the closest near X
+where  NNS is the closest by X
+where  NNS is the closest neighboring X
+where  NNS is the close-by from X
+where  NNS is the close-by to X
+where  NNS is the close-by around X
+where  NNS is the close-by near X
+where  NNS is the close-by by X
+where  NNS is the close-by neighboring X
+where  NNS is the nearby from X
+where  NNS is the nearby to X
+where  NNS is the nearby around X
+where  NNS is the nearby near X
+where  NNS is the nearby by X
+where  NNS is the nearby neighboring X
+where  NNS is the neighboring from X
+where  NNS is the neighboring to X
+where  NNS is the neighboring around X
+where  NNS is the neighboring near X
+where  NNS is the neighboring by X
+where  NNS is the neighboring neighboring X
+where  NNS is the distant from X
+where  NNS is the distant to X
+where  NNS is the distant around X
+where  NNS is the distant near X
+where  NNS is the distant by X
+where  NNS is the distant neighboring X
+where  NNS is the farthest from X
+where  NNS is the farthest to X
+where  NNS is the farthest around X
+where  NNS is the farthest near X
+where  NNS is the farthest by X
+where  NNS is the farthest neighboring X
+where  NNS is the furthest from X
+where  NNS is the furthest to X
+where  NNS is the furthest around X
+where  NNS is the furthest near X
+where  NNS is the furthest by X
+where  NNS is the furthest neighboring X
+where  NNS is the remote from X
+where  NNS is the remote to X
+where  NNS is the remote around X
+where  NNS is the remote near X
+where  NNS is the remote by X
+where  NNS is the remote neighboring X
+where CD NNS are the nearest from X
+where CD NNS are the nearest to X
+where CD NNS are the nearest around X
+where CD NNS are the nearest near X
+where CD NNS are the nearest by X
+where CD NNS are the nearest neighboring X
+where CD NNS are the closest from X
+where CD NNS are the closest to X
+where CD NNS are the closest around X
+where CD NNS are the closest near X
+where CD NNS are the closest by X
+where CD NNS are the closest neighboring X
+where CD NNS are the close-by from X
+where CD NNS are the close-by to X
+where CD NNS are the close-by around X
+where CD NNS are the close-by near X
+where CD NNS are the close-by by X
+where CD NNS are the close-by neighboring X
+where CD NNS are the nearby from X
+where CD NNS are the nearby to X
+where CD NNS are the nearby around X
+where CD NNS are the nearby near X
+where CD NNS are the nearby by X
+where CD NNS are the nearby neighboring X
+where CD NNS are the neighboring from X
+where CD NNS are the neighboring to X
+where CD NNS are the neighboring around X
+where CD NNS are the neighboring near X
+where CD NNS are the neighboring by X
+where CD NNS are the neighboring neighboring X
+where CD NNS are the distant from X
+where CD NNS are the distant to X
+where CD NNS are the distant around X
+where CD NNS are the distant near X
+where CD NNS are the distant by X
+where CD NNS are the distant neighboring X
+where CD NNS are the farthest from X
+where CD NNS are the farthest to X
+where CD NNS are the farthest around X
+where CD NNS are the farthest near X
+where CD NNS are the farthest by X
+where CD NNS are the farthest neighboring X
+where CD NNS are the furthest from X
+where CD NNS are the furthest to X
+where CD NNS are the furthest around X
+where CD NNS are the furthest near X
+where CD NNS are the furthest by X
+where CD NNS are the furthest neighboring X
+where CD NNS are the remote from X
+where CD NNS are the remote to X
+where CD NNS are the remote around X
+where CD NNS are the remote near X
+where CD NNS are the remote by X
+where CD NNS are the remote neighboring X
+where  NNS are the nearest from X
+where  NNS are the nearest to X
+where  NNS are the nearest around X
+where  NNS are the nearest near X
+where  NNS are the nearest by X
+where  NNS are the nearest neighboring X
+where  NNS are the closest from X
+where  NNS are the closest to X
+where  NNS are the closest around X
+where  NNS are the closest near X
+where  NNS are the closest by X
+where  NNS are the closest neighboring X
+where  NNS are the close-by from X
+where  NNS are the close-by to X
+where  NNS are the close-by around X
+where  NNS are the close-by near X
+where  NNS are the close-by by X
+where  NNS are the close-by neighboring X
+where  NNS are the nearby from X
+where  NNS are the nearby to X
+where  NNS are the nearby around X
+where  NNS are the nearby near X
+where  NNS are the nearby by X
+where  NNS are the nearby neighboring X
+where  NNS are the neighboring from X
+where  NNS are the neighboring to X
+where  NNS are the neighboring around X
+where  NNS are the neighboring near X
+where  NNS are the neighboring by X
+where  NNS are the neighboring neighboring X
+where  NNS are the distant from X
+where  NNS are the distant to X
+where  NNS are the distant around X
+where  NNS are the distant near X
+where  NNS are the distant by X
+where  NNS are the distant neighboring X
+where  NNS are the farthest from X
+where  NNS are the farthest to X
+where  NNS are the farthest around X
+where  NNS are the farthest near X
+where  NNS are the farthest by X
+where  NNS are the farthest neighboring X
+where  NNS are the furthest from X
+where  NNS are the furthest to X
+where  NNS are the furthest around X
+where  NNS are the furthest near X
+where  NNS are the furthest by X
+where  NNS are the furthest neighboring X
+where  NNS are the remote from X
+where  NNS are the remote to X
+where  NNS are the remote around X
+where  NNS are the remote near X
+where  NNS are the remote by X
+where  NNS are the remote neighboring X
+what CD NNS is the nearest from X
+what CD NNS is the nearest to X
+what CD NNS is the nearest around X
+what CD NNS is the nearest near X
+what CD NNS is the nearest by X
+what CD NNS is the nearest neighboring X
+what CD NNS is the closest from X
+what CD NNS is the closest to X
+what CD NNS is the closest around X
+what CD NNS is the closest near X
+what CD NNS is the closest by X
+what CD NNS is the closest neighboring X
+what CD NNS is the close-by from X
+what CD NNS is the close-by to X
+what CD NNS is the close-by around X
+what CD NNS is the close-by near X
+what CD NNS is the close-by by X
+what CD NNS is the close-by neighboring X
+what CD NNS is the nearby from X
+what CD NNS is the nearby to X
+what CD NNS is the nearby around X
+what CD NNS is the nearby near X
+what CD NNS is the nearby by X
+what CD NNS is the nearby neighboring X
+what CD NNS is the neighboring from X
+what CD NNS is the neighboring to X
+what CD NNS is the neighboring around X
+what CD NNS is the neighboring near X
+what CD NNS is the neighboring by X
+what CD NNS is the neighboring neighboring X
+what CD NNS is the distant from X
+what CD NNS is the distant to X
+what CD NNS is the distant around X
+what CD NNS is the distant near X
+what CD NNS is the distant by X
+what CD NNS is the distant neighboring X
+what CD NNS is the farthest from X
+what CD NNS is the farthest to X
+what CD NNS is the farthest around X
+what CD NNS is the farthest near X
+what CD NNS is the farthest by X
+what CD NNS is the farthest neighboring X
+what CD NNS is the furthest from X
+what CD NNS is the furthest to X
+what CD NNS is the furthest around X
+what CD NNS is the furthest near X
+what CD NNS is the furthest by X
+what CD NNS is the furthest neighboring X
+what CD NNS is the remote from X
+what CD NNS is the remote to X
+what CD NNS is the remote around X
+what CD NNS is the remote near X
+what CD NNS is the remote by X
+what CD NNS is the remote neighboring X
+what  NNS is the nearest from X
+what  NNS is the nearest to X
+what  NNS is the nearest around X
+what  NNS is the nearest near X
+what  NNS is the nearest by X
+what  NNS is the nearest neighboring X
+what  NNS is the closest from X
+what  NNS is the closest to X
+what  NNS is the closest around X
+what  NNS is the closest near X
+what  NNS is the closest by X
+what  NNS is the closest neighboring X
+what  NNS is the close-by from X
+what  NNS is the close-by to X
+what  NNS is the close-by around X
+what  NNS is the close-by near X
+what  NNS is the close-by by X
+what  NNS is the close-by neighboring X
+what  NNS is the nearby from X
+what  NNS is the nearby to X
+what  NNS is the nearby around X
+what  NNS is the nearby near X
+what  NNS is the nearby by X
+what  NNS is the nearby neighboring X
+what  NNS is the neighboring from X
+what  NNS is the neighboring to X
+what  NNS is the neighboring around X
+what  NNS is the neighboring near X
+what  NNS is the neighboring by X
+what  NNS is the neighboring neighboring X
+what  NNS is the distant from X
+what  NNS is the distant to X
+what  NNS is the distant around X
+what  NNS is the distant near X
+what  NNS is the distant by X
+what  NNS is the distant neighboring X
+what  NNS is the farthest from X
+what  NNS is the farthest to X
+what  NNS is the farthest around X
+what  NNS is the farthest near X
+what  NNS is the farthest by X
+what  NNS is the farthest neighboring X
+what  NNS is the furthest from X
+what  NNS is the furthest to X
+what  NNS is the furthest around X
+what  NNS is the furthest near X
+what  NNS is the furthest by X
+what  NNS is the furthest neighboring X
+what  NNS is the remote from X
+what  NNS is the remote to X
+what  NNS is the remote around X
+what  NNS is the remote near X
+what  NNS is the remote by X
+what  NNS is the remote neighboring X
+what CD NNS are the nearest from X
+what CD NNS are the nearest to X
+what CD NNS are the nearest around X
+what CD NNS are the nearest near X
+what CD NNS are the nearest by X
+what CD NNS are the nearest neighboring X
+what CD NNS are the closest from X
+what CD NNS are the closest to X
+what CD NNS are the closest around X
+what CD NNS are the closest near X
+what CD NNS are the closest by X
+what CD NNS are the closest neighboring X
+what CD NNS are the close-by from X
+what CD NNS are the close-by to X
+what CD NNS are the close-by around X
+what CD NNS are the close-by near X
+what CD NNS are the close-by by X
+what CD NNS are the close-by neighboring X
+what CD NNS are the nearby from X
+what CD NNS are the nearby to X
+what CD NNS are the nearby around X
+what CD NNS are the nearby near X
+what CD NNS are the nearby by X
+what CD NNS are the nearby neighboring X
+what CD NNS are the neighboring from X
+what CD NNS are the neighboring to X
+what CD NNS are the neighboring around X
+what CD NNS are the neighboring near X
+what CD NNS are the neighboring by X
+what CD NNS are the neighboring neighboring X
+what CD NNS are the distant from X
+what CD NNS are the distant to X
+what CD NNS are the distant around X
+what CD NNS are the distant near X
+what CD NNS are the distant by X
+what CD NNS are the distant neighboring X
+what CD NNS are the farthest from X
+what CD NNS are the farthest to X
+what CD NNS are the farthest around X
+what CD NNS are the farthest near X
+what CD NNS are the farthest by X
+what CD NNS are the farthest neighboring X
+what CD NNS are the furthest from X
+what CD NNS are the furthest to X
+what CD NNS are the furthest around X
+what CD NNS are the furthest near X
+what CD NNS are the furthest by X
+what CD NNS are the furthest neighboring X
+what CD NNS are the remote from X
+what CD NNS are the remote to X
+what CD NNS are the remote around X
+what CD NNS are the remote near X
+what CD NNS are the remote by X
+what CD NNS are the remote neighboring X
+what  NNS are the nearest from X
+what  NNS are the nearest to X
+what  NNS are the nearest around X
+what  NNS are the nearest near X
+what  NNS are the nearest by X
+what  NNS are the nearest neighboring X
+what  NNS are the closest from X
+what  NNS are the closest to X
+what  NNS are the closest around X
+what  NNS are the closest near X
+what  NNS are the closest by X
+what  NNS are the closest neighboring X
+what  NNS are the close-by from X
+what  NNS are the close-by to X
+what  NNS are the close-by around X
+what  NNS are the close-by near X
+what  NNS are the close-by by X
+what  NNS are the close-by neighboring X
+what  NNS are the nearby from X
+what  NNS are the nearby to X
+what  NNS are the nearby around X
+what  NNS are the nearby near X
+what  NNS are the nearby by X
+what  NNS are the nearby neighboring X
+what  NNS are the neighboring from X
+what  NNS are the neighboring to X
+what  NNS are the neighboring around X
+what  NNS are the neighboring near X
+what  NNS are the neighboring by X
+what  NNS are the neighboring neighboring X
+what  NNS are the distant from X
+what  NNS are the distant to X
+what  NNS are the distant around X
+what  NNS are the distant near X
+what  NNS are the distant by X
+what  NNS are the distant neighboring X
+what  NNS are the farthest from X
+what  NNS are the farthest to X
+what  NNS are the farthest around X
+what  NNS are the farthest near X
+what  NNS are the farthest by X
+what  NNS are the farthest neighboring X
+what  NNS are the furthest from X
+what  NNS are the furthest to X
+what  NNS are the furthest around X
+what  NNS are the furthest near X
+what  NNS are the furthest by X
+what  NNS are the furthest neighboring X
+what  NNS are the remote from X
+what  NNS are the remote to X
+what  NNS are the remote around X
+what  NNS are the remote near X
+what  NNS are the remote by X
+what  NNS are the remote neighboring X
+which CD NNS is the nearest from X
+which CD NNS is the nearest to X
+which CD NNS is the nearest around X
+which CD NNS is the nearest near X
+which CD NNS is the nearest by X
+which CD NNS is the nearest neighboring X
+which CD NNS is the closest from X
+which CD NNS is the closest to X
+which CD NNS is the closest around X
+which CD NNS is the closest near X
+which CD NNS is the closest by X
+which CD NNS is the closest neighboring X
+which CD NNS is the close-by from X
+which CD NNS is the close-by to X
+which CD NNS is the close-by around X
+which CD NNS is the close-by near X
+which CD NNS is the close-by by X
+which CD NNS is the close-by neighboring X
+which CD NNS is the nearby from X
+which CD NNS is the nearby to X
+which CD NNS is the nearby around X
+which CD NNS is the nearby near X
+which CD NNS is the nearby by X
+which CD NNS is the nearby neighboring X
+which CD NNS is the neighboring from X
+which CD NNS is the neighboring to X
+which CD NNS is the neighboring around X
+which CD NNS is the neighboring near X
+which CD NNS is the neighboring by X
+which CD NNS is the neighboring neighboring X
+which CD NNS is the distant from X
+which CD NNS is the distant to X
+which CD NNS is the distant around X
+which CD NNS is the distant near X
+which CD NNS is the distant by X
+which CD NNS is the distant neighboring X
+which CD NNS is the farthest from X
+which CD NNS is the farthest to X
+which CD NNS is the farthest around X
+which CD NNS is the farthest near X
+which CD NNS is the farthest by X
+which CD NNS is the farthest neighboring X
+which CD NNS is the furthest from X
+which CD NNS is the furthest to X
+which CD NNS is the furthest around X
+which CD NNS is the furthest near X
+which CD NNS is the furthest by X
+which CD NNS is the furthest neighboring X
+which CD NNS is the remote from X
+which CD NNS is the remote to X
+which CD NNS is the remote around X
+which CD NNS is the remote near X
+which CD NNS is the remote by X
+which CD NNS is the remote neighboring X
+which  NNS is the nearest from X
+which  NNS is the nearest to X
+which  NNS is the nearest around X
+which  NNS is the nearest near X
+which  NNS is the nearest by X
+which  NNS is the nearest neighboring X
+which  NNS is the closest from X
+which  NNS is the closest to X
+which  NNS is the closest around X
+which  NNS is the closest near X
+which  NNS is the closest by X
+which  NNS is the closest neighboring X
+which  NNS is the close-by from X
+which  NNS is the close-by to X
+which  NNS is the close-by around X
+which  NNS is the close-by near X
+which  NNS is the close-by by X
+which  NNS is the close-by neighboring X
+which  NNS is the nearby from X
+which  NNS is the nearby to X
+which  NNS is the nearby around X
+which  NNS is the nearby near X
+which  NNS is the nearby by X
+which  NNS is the nearby neighboring X
+which  NNS is the neighboring from X
+which  NNS is the neighboring to X
+which  NNS is the neighboring around X
+which  NNS is the neighboring near X
+which  NNS is the neighboring by X
+which  NNS is the neighboring neighboring X
+which  NNS is the distant from X
+which  NNS is the distant to X
+which  NNS is the distant around X
+which  NNS is the distant near X
+which  NNS is the distant by X
+which  NNS is the distant neighboring X
+which  NNS is the farthest from X
+which  NNS is the farthest to X
+which  NNS is the farthest around X
+which  NNS is the farthest near X
+which  NNS is the farthest by X
+which  NNS is the farthest neighboring X
+which  NNS is the furthest from X
+which  NNS is the furthest to X
+which  NNS is the furthest around X
+which  NNS is the furthest near X
+which  NNS is the furthest by X
+which  NNS is the furthest neighboring X
+which  NNS is the remote from X
+which  NNS is the remote to X
+which  NNS is the remote around X
+which  NNS is the remote near X
+which  NNS is the remote by X
+which  NNS is the remote neighboring X
+which CD NNS are the nearest from X
+which CD NNS are the nearest to X
+which CD NNS are the nearest around X
+which CD NNS are the nearest near X
+which CD NNS are the nearest by X
+which CD NNS are the nearest neighboring X
+which CD NNS are the closest from X
+which CD NNS are the closest to X
+which CD NNS are the closest around X
+which CD NNS are the closest near X
+which CD NNS are the closest by X
+which CD NNS are the closest neighboring X
+which CD NNS are the close-by from X
+which CD NNS are the close-by to X
+which CD NNS are the close-by around X
+which CD NNS are the close-by near X
+which CD NNS are the close-by by X
+which CD NNS are the close-by neighboring X
+which CD NNS are the nearby from X
+which CD NNS are the nearby to X
+which CD NNS are the nearby around X
+which CD NNS are the nearby near X
+which CD NNS are the nearby by X
+which CD NNS are the nearby neighboring X
+which CD NNS are the neighboring from X
+which CD NNS are the neighboring to X
+which CD NNS are the neighboring around X
+which CD NNS are the neighboring near X
+which CD NNS are the neighboring by X
+which CD NNS are the neighboring neighboring X
+which CD NNS are the distant from X
+which CD NNS are the distant to X
+which CD NNS are the distant around X
+which CD NNS are the distant near X
+which CD NNS are the distant by X
+which CD NNS are the distant neighboring X
+which CD NNS are the farthest from X
+which CD NNS are the farthest to X
+which CD NNS are the farthest around X
+which CD NNS are the farthest near X
+which CD NNS are the farthest by X
+which CD NNS are the farthest neighboring X
+which CD NNS are the furthest from X
+which CD NNS are the furthest to X
+which CD NNS are the furthest around X
+which CD NNS are the furthest near X
+which CD NNS are the furthest by X
+which CD NNS are the furthest neighboring X
+which CD NNS are the remote from X
+which CD NNS are the remote to X
+which CD NNS are the remote around X
+which CD NNS are the remote near X
+which CD NNS are the remote by X
+which CD NNS are the remote neighboring X
+which  NNS are the nearest from X
+which  NNS are the nearest to X
+which  NNS are the nearest around X
+which  NNS are the nearest near X
+which  NNS are the nearest by X
+which  NNS are the nearest neighboring X
+which  NNS are the closest from X
+which  NNS are the closest to X
+which  NNS are the closest around X
+which  NNS are the closest near X
+which  NNS are the closest by X
+which  NNS are the closest neighboring X
+which  NNS are the close-by from X
+which  NNS are the close-by to X
+which  NNS are the close-by around X
+which  NNS are the close-by near X
+which  NNS are the close-by by X
+which  NNS are the close-by neighboring X
+which  NNS are the nearby from X
+which  NNS are the nearby to X
+which  NNS are the nearby around X
+which  NNS are the nearby near X
+which  NNS are the nearby by X
+which  NNS are the nearby neighboring X
+which  NNS are the neighboring from X
+which  NNS are the neighboring to X
+which  NNS are the neighboring around X
+which  NNS are the neighboring near X
+which  NNS are the neighboring by X
+which  NNS are the neighboring neighboring X
+which  NNS are the distant from X
+which  NNS are the distant to X
+which  NNS are the distant around X
+which  NNS are the distant near X
+which  NNS are the distant by X
+which  NNS are the distant neighboring X
+which  NNS are the farthest from X
+which  NNS are the farthest to X
+which  NNS are the farthest around X
+which  NNS are the farthest near X
+which  NNS are the farthest by X
+which  NNS are the farthest neighboring X
+which  NNS are the furthest from X
+which  NNS are the furthest to X
+which  NNS are the furthest around X
+which  NNS are the furthest near X
+which  NNS are the furthest by X
+which  NNS are the furthest neighboring X
+which  NNS are the remote from X
+which  NNS are the remote to X
+which  NNS are the remote around X
+which  NNS are the remote near X
+which  NNS are the remote by X
+which  NNS are the remote neighboring X
