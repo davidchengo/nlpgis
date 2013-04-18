@@ -1,0 +1,802 @@
+ID|Book|Token|Freq
+1|Moby Dick by Herman Melville 1851|over|0.15
+1|Sense and Sensibility by Jane Austen 1811|over|0.07
+1|The Book of Genesis|over|0.11
+1|Inaugural Address Corpus|over|0.06
+1|Chat Corpus|over|0.09
+1|Monty Python and the Holy Grail|over|0.02
+1|Wall Street Journal|over|0.08
+1|Personals Corpus|over|0.02
+1|The Man Who Was Thursday by G . K . Chesterton 1908|over|0.10
+2|Moby Dick by Herman Melville 1851|through|0.09
+2|Sense and Sensibility by Jane Austen 1811|through|0.03
+2|The Book of Genesis|through|0.01
+2|Inaugural Address Corpus|through|0.07
+2|Chat Corpus|through|0.01
+2|Monty Python and the Holy Grail|through|0.05
+2|Wall Street Journal|through|0.04
+2|Personals Corpus|through|0.00
+2|The Man Who Was Thursday by G . K . Chesterton 1908|through|0.08
+3|Moby Dick by Herman Melville 1851|before|0.11
+3|Sense and Sensibility by Jane Austen 1811|before|0.14
+3|The Book of Genesis|before|0.20
+3|Inaugural Address Corpus|before|0.08
+3|Chat Corpus|before|0.03
+3|Monty Python and the Holy Grail|before|0.00
+3|Wall Street Journal|before|0.05
+3|Personals Corpus|before|0.00
+3|The Man Who Was Thursday by G . K . Chesterton 1908|before|0.08
+4|Moby Dick by Herman Melville 1851|somewhere|0.01
+4|Sense and Sensibility by Jane Austen 1811|somewhere|0.00
+4|The Book of Genesis|somewhere|0.00
+4|Inaugural Address Corpus|somewhere|0.00
+4|Chat Corpus|somewhere|0.00
+4|Monty Python and the Holy Grail|somewhere|0.01
+4|Wall Street Journal|somewhere|0.00
+4|Personals Corpus|somewhere|0.00
+4|The Man Who Was Thursday by G . K . Chesterton 1908|somewhere|0.01
+5|Moby Dick by Herman Melville 1851|inward|0.00
+5|Sense and Sensibility by Jane Austen 1811|inward|0.00
+5|The Book of Genesis|inward|0.00
+5|Inaugural Address Corpus|inward|0.00
+5|Chat Corpus|inward|0.00
+5|Monty Python and the Holy Grail|inward|0.00
+5|Wall Street Journal|inward|0.00
+5|Personals Corpus|inward|0.00
+5|The Man Who Was Thursday by G . K . Chesterton 1908|inward|0.00
+6|Moby Dick by Herman Melville 1851|onward|0.00
+6|Sense and Sensibility by Jane Austen 1811|onward|0.00
+6|The Book of Genesis|onward|0.00
+6|Inaugural Address Corpus|onward|0.01
+6|Chat Corpus|onward|0.00
+6|Monty Python and the Holy Grail|onward|0.00
+6|Wall Street Journal|onward|0.00
+6|Personals Corpus|onward|0.00
+6|The Man Who Was Thursday by G . K . Chesterton 1908|onward|0.00
+7|Moby Dick by Herman Melville 1851|outside|0.00
+7|Sense and Sensibility by Jane Austen 1811|outside|0.00
+7|The Book of Genesis|outside|0.00
+7|Inaugural Address Corpus|outside|0.00
+7|Chat Corpus|outside|0.01
+7|Monty Python and the Holy Grail|outside|0.01
+7|Wall Street Journal|outside|0.01
+7|Personals Corpus|outside|0.00
+7|The Man Who Was Thursday by G . K . Chesterton 1908|outside|0.02
+8|Moby Dick by Herman Melville 1851|aimlessly|0.00
+8|Sense and Sensibility by Jane Austen 1811|aimlessly|0.00
+8|The Book of Genesis|aimlessly|0.00
+8|Inaugural Address Corpus|aimlessly|0.00
+8|Chat Corpus|aimlessly|0.00
+8|Monty Python and the Holy Grail|aimlessly|0.00
+8|Wall Street Journal|aimlessly|0.00
+8|Personals Corpus|aimlessly|0.00
+8|The Man Who Was Thursday by G . K . Chesterton 1908|aimlessly|0.00
+9|Moby Dick by Herman Melville 1851|to|1.74
+9|Sense and Sensibility by Jane Austen 1811|to|2.87
+9|The Book of Genesis|to|1.36
+9|Inaugural Address Corpus|to|2.96
+9|Chat Corpus|to|1.46
+9|Monty Python and the Holy Grail|to|0.85
+9|Wall Street Journal|to|2.15
+9|Personals Corpus|to|1.52
+9|The Man Who Was Thursday by G . K . Chesterton 1908|to|1.51
+10|Moby Dick by Herman Melville 1851|under|0.04
+10|Sense and Sensibility by Jane Austen 1811|under|0.04
+10|The Book of Genesis|under|0.04
+10|Inaugural Address Corpus|under|0.12
+10|Chat Corpus|under|0.01
+10|Monty Python and the Holy Grail|under|0.01
+10|Wall Street Journal|under|0.06
+10|Personals Corpus|under|0.08
+10|The Man Who Was Thursday by G . K . Chesterton 1908|under|0.07
+11|Moby Dick by Herman Melville 1851|eastward|0.00
+11|Sense and Sensibility by Jane Austen 1811|eastward|0.00
+11|The Book of Genesis|eastward|0.01
+11|Inaugural Address Corpus|eastward|0.00
+11|Chat Corpus|eastward|0.00
+11|Monty Python and the Holy Grail|eastward|0.00
+11|Wall Street Journal|eastward|0.00
+11|Personals Corpus|eastward|0.00
+11|The Man Who Was Thursday by G . K . Chesterton 1908|eastward|0.00
+12|Moby Dick by Herman Melville 1851|around|0.01
+12|Sense and Sensibility by Jane Austen 1811|around|0.01
+12|The Book of Genesis|around|0.00
+12|Inaugural Address Corpus|around|0.01
+12|Chat Corpus|around|0.05
+12|Monty Python and the Holy Grail|around|0.01
+12|Wall Street Journal|around|0.03
+12|Personals Corpus|around|0.00
+12|The Man Who Was Thursday by G . K . Chesterton 1908|around|0.01
+13|Moby Dick by Herman Melville 1851|all over|0.00
+13|Sense and Sensibility by Jane Austen 1811|all over|0.00
+13|The Book of Genesis|all over|0.00
+13|Inaugural Address Corpus|all over|0.00
+13|Chat Corpus|all over|0.00
+13|Monty Python and the Holy Grail|all over|0.00
+13|Wall Street Journal|all over|0.00
+13|Personals Corpus|all over|0.00
+13|The Man Who Was Thursday by G . K . Chesterton 1908|all over|0.00
+14|Moby Dick by Herman Melville 1851|far|0.06
+14|Sense and Sensibility by Jane Austen 1811|far|0.05
+14|The Book of Genesis|far|0.01
+14|Inaugural Address Corpus|far|0.06
+14|Chat Corpus|far|0.02
+14|Monty Python and the Holy Grail|far|0.01
+14|Wall Street Journal|far|0.03
+14|Personals Corpus|far|0.00
+14|The Man Who Was Thursday by G . K . Chesterton 1908|far|0.03
+15|Moby Dick by Herman Melville 1851|underneath|0.00
+15|Sense and Sensibility by Jane Austen 1811|underneath|0.00
+15|The Book of Genesis|underneath|0.00
+15|Inaugural Address Corpus|underneath|0.00
+15|Chat Corpus|underneath|0.00
+15|Monty Python and the Holy Grail|underneath|0.00
+15|Wall Street Journal|underneath|0.00
+15|Personals Corpus|underneath|0.00
+15|The Man Who Was Thursday by G . K . Chesterton 1908|underneath|0.00
+16|Moby Dick by Herman Melville 1851|closely|0.01
+16|Sense and Sensibility by Jane Austen 1811|closely|0.00
+16|The Book of Genesis|closely|0.00
+16|Inaugural Address Corpus|closely|0.00
+16|Chat Corpus|closely|0.00
+16|Monty Python and the Holy Grail|closely|0.00
+16|Wall Street Journal|closely|0.01
+16|Personals Corpus|closely|0.00
+16|The Man Who Was Thursday by G . K . Chesterton 1908|closely|0.00
+17|Moby Dick by Herman Melville 1851|apart|0.01
+17|Sense and Sensibility by Jane Austen 1811|apart|0.00
+17|The Book of Genesis|apart|0.00
+17|Inaugural Address Corpus|apart|0.00
+17|Chat Corpus|apart|0.00
+17|Monty Python and the Holy Grail|apart|0.02
+17|Wall Street Journal|apart|0.00
+17|Personals Corpus|apart|0.00
+17|The Man Who Was Thursday by G . K . Chesterton 1908|apart|0.00
+18|Moby Dick by Herman Melville 1851|uphill|0.00
+18|Sense and Sensibility by Jane Austen 1811|uphill|0.00
+18|The Book of Genesis|uphill|0.00
+18|Inaugural Address Corpus|uphill|0.00
+18|Chat Corpus|uphill|0.00
+18|Monty Python and the Holy Grail|uphill|0.00
+18|Wall Street Journal|uphill|0.00
+18|Personals Corpus|uphill|0.00
+18|The Man Who Was Thursday by G . K . Chesterton 1908|uphill|0.00
+19|Moby Dick by Herman Melville 1851|up and down|0.00
+19|Sense and Sensibility by Jane Austen 1811|up and down|0.00
+19|The Book of Genesis|up and down|0.00
+19|Inaugural Address Corpus|up and down|0.00
+19|Chat Corpus|up and down|0.00
+19|Monty Python and the Holy Grail|up and down|0.00
+19|Wall Street Journal|up and down|0.00
+19|Personals Corpus|up and down|0.00
+19|The Man Who Was Thursday by G . K . Chesterton 1908|up and down|0.00
+20|Moby Dick by Herman Melville 1851|abaft|0.00
+20|Sense and Sensibility by Jane Austen 1811|abaft|0.00
+20|The Book of Genesis|abaft|0.00
+20|Inaugural Address Corpus|abaft|0.00
+20|Chat Corpus|abaft|0.00
+20|Monty Python and the Holy Grail|abaft|0.00
+20|Wall Street Journal|abaft|0.00
+20|Personals Corpus|abaft|0.00
+20|The Man Who Was Thursday by G . K . Chesterton 1908|abaft|0.00
+21|Moby Dick by Herman Melville 1851|downward|0.00
+21|Sense and Sensibility by Jane Austen 1811|downward|0.00
+21|The Book of Genesis|downward|0.00
+21|Inaugural Address Corpus|downward|0.00
+21|Chat Corpus|downward|0.00
+21|Monty Python and the Holy Grail|downward|0.00
+21|Wall Street Journal|downward|0.00
+21|Personals Corpus|downward|0.00
+21|The Man Who Was Thursday by G . K . Chesterton 1908|downward|0.00
+22|Moby Dick by Herman Melville 1851|round|0.09
+22|Sense and Sensibility by Jane Austen 1811|round|0.02
+22|The Book of Genesis|round|0.01
+22|Inaugural Address Corpus|round|0.00
+22|Chat Corpus|round|0.01
+22|Monty Python and the Holy Grail|round|0.02
+22|Wall Street Journal|round|0.00
+22|Personals Corpus|round|0.00
+22|The Man Who Was Thursday by G . K . Chesterton 1908|round|0.07
+23|Moby Dick by Herman Melville 1851|upward|0.00
+23|Sense and Sensibility by Jane Austen 1811|upward|0.00
+23|The Book of Genesis|upward|0.00
+23|Inaugural Address Corpus|upward|0.00
+23|Chat Corpus|upward|0.00
+23|Monty Python and the Holy Grail|upward|0.00
+23|Wall Street Journal|upward|0.00
+23|Personals Corpus|upward|0.00
+23|The Man Who Was Thursday by G . K . Chesterton 1908|upward|0.00
+24|Moby Dick by Herman Melville 1851|right|0.04
+24|Sense and Sensibility by Jane Austen 1811|right|0.02
+24|The Book of Genesis|right|0.02
+24|Inaugural Address Corpus|right|0.08
+24|Chat Corpus|right|0.12
+24|Monty Python and the Holy Grail|right|0.12
+24|Wall Street Journal|right|0.03
+24|Personals Corpus|right|0.00
+24|The Man Who Was Thursday by G . K . Chesterton 1908|right|0.08
+25|Moby Dick by Herman Melville 1851|upstairs|0.00
+25|Sense and Sensibility by Jane Austen 1811|upstairs|0.00
+25|The Book of Genesis|upstairs|0.00
+25|Inaugural Address Corpus|upstairs|0.00
+25|Chat Corpus|upstairs|0.00
+25|Monty Python and the Holy Grail|upstairs|0.00
+25|Wall Street Journal|upstairs|0.00
+25|Personals Corpus|upstairs|0.00
+25|The Man Who Was Thursday by G . K . Chesterton 1908|upstairs|0.00
+26|Moby Dick by Herman Melville 1851|past|0.01
+26|Sense and Sensibility by Jane Austen 1811|past|0.02
+26|The Book of Genesis|past|0.00
+26|Inaugural Address Corpus|past|0.04
+26|Chat Corpus|past|0.00
+26|Monty Python and the Holy Grail|past|0.00
+26|Wall Street Journal|past|0.03
+26|Personals Corpus|past|0.00
+26|The Man Who Was Thursday by G . K . Chesterton 1908|past|0.02
+27|Moby Dick by Herman Melville 1851|beyond|0.01
+27|Sense and Sensibility by Jane Austen 1811|beyond|0.03
+27|The Book of Genesis|beyond|0.01
+27|Inaugural Address Corpus|beyond|0.03
+27|Chat Corpus|beyond|0.00
+27|Monty Python and the Holy Grail|beyond|0.01
+27|Wall Street Journal|beyond|0.00
+27|Personals Corpus|beyond|0.00
+27|The Man Who Was Thursday by G . K . Chesterton 1908|beyond|0.02
+28|Moby Dick by Herman Melville 1851|outward|0.00
+28|Sense and Sensibility by Jane Austen 1811|outward|0.00
+28|The Book of Genesis|outward|0.00
+28|Inaugural Address Corpus|outward|0.00
+28|Chat Corpus|outward|0.00
+28|Monty Python and the Holy Grail|outward|0.00
+28|Wall Street Journal|outward|0.00
+28|Personals Corpus|outward|0.00
+28|The Man Who Was Thursday by G . K . Chesterton 1908|outward|0.00
+29|Moby Dick by Herman Melville 1851|out|0.20
+29|Sense and Sensibility by Jane Austen 1811|out|0.11
+29|The Book of Genesis|out|0.24
+29|Inaugural Address Corpus|out|0.06
+29|Chat Corpus|out|0.24
+29|Monty Python and the Holy Grail|out|0.19
+29|Wall Street Journal|out|0.08
+29|Personals Corpus|out|0.39
+29|The Man Who Was Thursday by G . K . Chesterton 1908|out|0.30
+30|Moby Dick by Herman Melville 1851|away|0.07
+30|Sense and Sensibility by Jane Austen 1811|away|0.08
+30|The Book of Genesis|away|0.08
+30|Inaugural Address Corpus|away|0.02
+30|Chat Corpus|away|0.06
+30|Monty Python and the Holy Grail|away|0.22
+30|Wall Street Journal|away|0.02
+30|Personals Corpus|away|0.08
+30|The Man Who Was Thursday by G . K . Chesterton 1908|away|0.06
+31|Moby Dick by Herman Melville 1851|southward|0.00
+31|Sense and Sensibility by Jane Austen 1811|southward|0.00
+31|The Book of Genesis|southward|0.00
+31|Inaugural Address Corpus|southward|0.00
+31|Chat Corpus|southward|0.00
+31|Monty Python and the Holy Grail|southward|0.00
+31|Wall Street Journal|southward|0.00
+31|Personals Corpus|southward|0.00
+31|The Man Who Was Thursday by G . K . Chesterton 1908|southward|0.00
+32|Moby Dick by Herman Melville 1851|below|0.02
+32|Sense and Sensibility by Jane Austen 1811|below|0.00
+32|The Book of Genesis|below|0.00
+32|Inaugural Address Corpus|below|0.00
+32|Chat Corpus|below|0.00
+32|Monty Python and the Holy Grail|below|0.00
+32|Wall Street Journal|below|0.03
+32|Personals Corpus|below|0.02
+32|The Man Who Was Thursday by G . K . Chesterton 1908|below|0.01
+33|Moby Dick by Herman Melville 1851|behind|0.02
+33|Sense and Sensibility by Jane Austen 1811|behind|0.01
+33|The Book of Genesis|behind|0.01
+33|Inaugural Address Corpus|behind|0.01
+33|Chat Corpus|behind|0.01
+33|Monty Python and the Holy Grail|behind|0.01
+33|Wall Street Journal|behind|0.00
+33|Personals Corpus|behind|0.00
+33|The Man Who Was Thursday by G . K . Chesterton 1908|behind|0.06
+34|Moby Dick by Herman Melville 1851|above|0.02
+34|Sense and Sensibility by Jane Austen 1811|above|0.01
+34|The Book of Genesis|above|0.02
+34|Inaugural Address Corpus|above|0.01
+34|Chat Corpus|above|0.00
+34|Monty Python and the Holy Grail|above|0.00
+34|Wall Street Journal|above|0.02
+34|Personals Corpus|above|0.00
+34|The Man Who Was Thursday by G . K . Chesterton 1908|above|0.03
+35|Moby Dick by Herman Melville 1851|between|0.04
+35|Sense and Sensibility by Jane Austen 1811|between|0.05
+35|The Book of Genesis|between|0.06
+35|Inaugural Address Corpus|between|0.06
+35|Chat Corpus|between|0.01
+35|Monty Python and the Holy Grail|between|0.02
+35|Wall Street Journal|between|0.04
+35|Personals Corpus|between|0.04
+35|The Man Who Was Thursday by G . K . Chesterton 1908|between|0.04
+36|Moby Dick by Herman Melville 1851|across|0.01
+36|Sense and Sensibility by Jane Austen 1811|across|0.00
+36|The Book of Genesis|across|0.00
+36|Inaugural Address Corpus|across|0.01
+36|Chat Corpus|across|0.00
+36|Monty Python and the Holy Grail|across|0.00
+36|Wall Street Journal|across|0.01
+36|Personals Corpus|across|0.00
+36|The Man Who Was Thursday by G . K . Chesterton 1908|across|0.05
+37|Moby Dick by Herman Melville 1851|sideways|0.01
+37|Sense and Sensibility by Jane Austen 1811|sideways|0.00
+37|The Book of Genesis|sideways|0.00
+37|Inaugural Address Corpus|sideways|0.00
+37|Chat Corpus|sideways|0.00
+37|Monty Python and the Holy Grail|sideways|0.00
+37|Wall Street Journal|sideways|0.00
+37|Personals Corpus|sideways|0.00
+37|The Man Who Was Thursday by G . K . Chesterton 1908|sideways|0.00
+38|Moby Dick by Herman Melville 1851|underfoot|0.00
+38|Sense and Sensibility by Jane Austen 1811|underfoot|0.00
+38|The Book of Genesis|underfoot|0.00
+38|Inaugural Address Corpus|underfoot|0.00
+38|Chat Corpus|underfoot|0.00
+38|Monty Python and the Holy Grail|underfoot|0.00
+38|Wall Street Journal|underfoot|0.00
+38|Personals Corpus|underfoot|0.00
+38|The Man Who Was Thursday by G . K . Chesterton 1908|underfoot|0.00
+39|Moby Dick by Herman Melville 1851|here|0.10
+39|Sense and Sensibility by Jane Austen 1811|here|0.03
+39|The Book of Genesis|here|0.03
+39|Inaugural Address Corpus|here|0.04
+39|Chat Corpus|here|0.40
+39|Monty Python and the Holy Grail|here|0.20
+39|Wall Street Journal|here|0.02
+39|Personals Corpus|here|0.00
+39|The Man Who Was Thursday by G . K . Chesterton 1908|here|0.07
+40|Moby Dick by Herman Melville 1851|aloft|0.02
+40|Sense and Sensibility by Jane Austen 1811|aloft|0.00
+40|The Book of Genesis|aloft|0.00
+40|Inaugural Address Corpus|aloft|0.00
+40|Chat Corpus|aloft|0.00
+40|Monty Python and the Holy Grail|aloft|0.01
+40|Wall Street Journal|aloft|0.00
+40|Personals Corpus|aloft|0.00
+40|The Man Who Was Thursday by G . K . Chesterton 1908|aloft|0.00
+41|Moby Dick by Herman Melville 1851|nowhere|0.00
+41|Sense and Sensibility by Jane Austen 1811|nowhere|0.00
+41|The Book of Genesis|nowhere|0.00
+41|Inaugural Address Corpus|nowhere|0.00
+41|Chat Corpus|nowhere|0.00
+41|Monty Python and the Holy Grail|nowhere|0.00
+41|Wall Street Journal|nowhere|0.00
+41|Personals Corpus|nowhere|0.00
+41|The Man Who Was Thursday by G . K . Chesterton 1908|nowhere|0.00
+42|Moby Dick by Herman Melville 1851|along|0.04
+42|Sense and Sensibility by Jane Austen 1811|along|0.01
+42|The Book of Genesis|along|0.00
+42|Inaugural Address Corpus|along|0.01
+42|Chat Corpus|along|0.01
+42|Monty Python and the Holy Grail|along|0.02
+42|Wall Street Journal|along|0.01
+42|Personals Corpus|along|0.00
+42|The Man Who Was Thursday by G . K . Chesterton 1908|along|0.03
+43|Moby Dick by Herman Melville 1851|abroad|0.00
+43|Sense and Sensibility by Jane Austen 1811|abroad|0.01
+43|The Book of Genesis|abroad|0.02
+43|Inaugural Address Corpus|abroad|0.02
+43|Chat Corpus|abroad|0.00
+43|Monty Python and the Holy Grail|abroad|0.00
+43|Wall Street Journal|abroad|0.00
+43|Personals Corpus|abroad|0.00
+43|The Man Who Was Thursday by G . K . Chesterton 1908|abroad|0.00
+44|Moby Dick by Herman Melville 1851|on|0.39
+44|Sense and Sensibility by Jane Austen 1811|on|0.48
+44|The Book of Genesis|on|0.13
+44|Inaugural Address Corpus|on|0.34
+44|Chat Corpus|on|0.41
+44|Monty Python and the Holy Grail|on|0.28
+44|Wall Street Journal|on|0.49
+44|Personals Corpus|on|0.08
+44|The Man Who Was Thursday by G . K . Chesterton 1908|on|0.42
+45|Moby Dick by Herman Melville 1851|about|0.12
+45|Sense and Sensibility by Jane Austen 1811|about|0.10
+45|The Book of Genesis|about|0.02
+45|Inaugural Address Corpus|about|0.03
+45|Chat Corpus|about|0.16
+45|Monty Python and the Holy Grail|about|0.08
+45|Wall Street Journal|about|0.20
+45|Personals Corpus|about|0.02
+45|The Man Who Was Thursday by G . K . Chesterton 1908|about|0.17
+46|Moby Dick by Herman Melville 1851|backwards|0.00
+46|Sense and Sensibility by Jane Austen 1811|backwards|0.00
+46|The Book of Genesis|backwards|0.00
+46|Inaugural Address Corpus|backwards|0.00
+46|Chat Corpus|backwards|0.00
+46|Monty Python and the Holy Grail|backwards|0.00
+46|Wall Street Journal|backwards|0.00
+46|Personals Corpus|backwards|0.00
+46|The Man Who Was Thursday by G . K . Chesterton 1908|backwards|0.01
+47|Moby Dick by Herman Melville 1851|ahead|0.01
+47|Sense and Sensibility by Jane Austen 1811|ahead|0.00
+47|The Book of Genesis|ahead|0.00
+47|Inaugural Address Corpus|ahead|0.00
+47|Chat Corpus|ahead|0.00
+47|Monty Python and the Holy Grail|ahead|0.00
+47|Wall Street Journal|ahead|0.01
+47|Personals Corpus|ahead|0.00
+47|The Man Who Was Thursday by G . K . Chesterton 1908|ahead|0.00
+48|Moby Dick by Herman Melville 1851|rearward|0.00
+48|Sense and Sensibility by Jane Austen 1811|rearward|0.00
+48|The Book of Genesis|rearward|0.00
+48|Inaugural Address Corpus|rearward|0.00
+48|Chat Corpus|rearward|0.00
+48|Monty Python and the Holy Grail|rearward|0.00
+48|Wall Street Journal|rearward|0.00
+48|Personals Corpus|rearward|0.00
+48|The Man Who Was Thursday by G . K . Chesterton 1908|rearward|0.00
+49|Moby Dick by Herman Melville 1851|aboard|0.01
+49|Sense and Sensibility by Jane Austen 1811|aboard|0.00
+49|The Book of Genesis|aboard|0.00
+49|Inaugural Address Corpus|aboard|0.00
+49|Chat Corpus|aboard|0.00
+49|Monty Python and the Holy Grail|aboard|0.00
+49|Wall Street Journal|aboard|0.00
+49|Personals Corpus|aboard|0.00
+49|The Man Who Was Thursday by G . K . Chesterton 1908|aboard|0.00
+50|Moby Dick by Herman Melville 1851|nearby|0.00
+50|Sense and Sensibility by Jane Austen 1811|nearby|0.00
+50|The Book of Genesis|nearby|0.00
+50|Inaugural Address Corpus|nearby|0.00
+50|Chat Corpus|nearby|0.00
+50|Monty Python and the Holy Grail|nearby|0.00
+50|Wall Street Journal|nearby|0.00
+50|Personals Corpus|nearby|0.00
+50|The Man Who Was Thursday by G . K . Chesterton 1908|nearby|0.00
+51|Moby Dick by Herman Melville 1851|locally|0.00
+51|Sense and Sensibility by Jane Austen 1811|locally|0.00
+51|The Book of Genesis|locally|0.00
+51|Inaugural Address Corpus|locally|0.00
+51|Chat Corpus|locally|0.00
+51|Monty Python and the Holy Grail|locally|0.00
+51|Wall Street Journal|locally|0.00
+51|Personals Corpus|locally|0.00
+51|The Man Who Was Thursday by G . K . Chesterton 1908|locally|0.00
+52|Moby Dick by Herman Melville 1851|forwards|0.00
+52|Sense and Sensibility by Jane Austen 1811|forwards|0.00
+52|The Book of Genesis|forwards|0.00
+52|Inaugural Address Corpus|forwards|0.00
+52|Chat Corpus|forwards|0.00
+52|Monty Python and the Holy Grail|forwards|0.00
+52|Wall Street Journal|forwards|0.00
+52|Personals Corpus|forwards|0.00
+52|The Man Who Was Thursday by G . K . Chesterton 1908|forwards|0.00
+53|Moby Dick by Herman Melville 1851|within|0.03
+53|Sense and Sensibility by Jane Austen 1811|within|0.04
+53|The Book of Genesis|within|0.02
+53|Inaugural Address Corpus|within|0.06
+53|Chat Corpus|within|0.00
+53|Monty Python and the Holy Grail|within|0.00
+53|Wall Street Journal|within|0.01
+53|Personals Corpus|within|0.00
+53|The Man Who Was Thursday by G . K . Chesterton 1908|within|0.01
+54|Moby Dick by Herman Melville 1851|down|0.14
+54|Sense and Sensibility by Jane Austen 1811|down|0.05
+54|The Book of Genesis|down|0.13
+54|Inaugural Address Corpus|down|0.02
+54|Chat Corpus|down|0.05
+54|Monty Python and the Holy Grail|down|0.04
+54|Wall Street Journal|down|0.06
+54|Personals Corpus|down|0.06
+54|The Man Who Was Thursday by G . K . Chesterton 1908|down|0.17
+55|Moby Dick by Herman Melville 1851|indoors|0.00
+55|Sense and Sensibility by Jane Austen 1811|indoors|0.00
+55|The Book of Genesis|indoors|0.00
+55|Inaugural Address Corpus|indoors|0.00
+55|Chat Corpus|indoors|0.00
+55|Monty Python and the Holy Grail|indoors|0.00
+55|Wall Street Journal|indoors|0.00
+55|Personals Corpus|indoors|0.00
+55|The Man Who Was Thursday by G . K . Chesterton 1908|indoors|0.00
+56|Moby Dick by Herman Melville 1851|throughout|0.00
+56|Sense and Sensibility by Jane Austen 1811|throughout|0.00
+56|The Book of Genesis|throughout|0.01
+56|Inaugural Address Corpus|throughout|0.02
+56|Chat Corpus|throughout|0.00
+56|Monty Python and the Holy Grail|throughout|0.01
+56|Wall Street Journal|throughout|0.00
+56|Personals Corpus|throughout|0.00
+56|The Man Who Was Thursday by G . K . Chesterton 1908|throughout|0.00
+57|Moby Dick by Herman Melville 1851|downhill|0.00
+57|Sense and Sensibility by Jane Austen 1811|downhill|0.00
+57|The Book of Genesis|downhill|0.00
+57|Inaugural Address Corpus|downhill|0.00
+57|Chat Corpus|downhill|0.00
+57|Monty Python and the Holy Grail|downhill|0.00
+57|Wall Street Journal|downhill|0.00
+57|Personals Corpus|downhill|0.00
+57|The Man Who Was Thursday by G . K . Chesterton 1908|downhill|0.00
+58|Moby Dick by Herman Melville 1851|beneath|0.03
+58|Sense and Sensibility by Jane Austen 1811|beneath|0.00
+58|The Book of Genesis|beneath|0.00
+58|Inaugural Address Corpus|beneath|0.00
+58|Chat Corpus|beneath|0.00
+58|Monty Python and the Holy Grail|beneath|0.00
+58|Wall Street Journal|beneath|0.00
+58|Personals Corpus|beneath|0.00
+58|The Man Who Was Thursday by G . K . Chesterton 1908|beneath|0.00
+59|Moby Dick by Herman Melville 1851|there|0.27
+59|Sense and Sensibility by Jane Austen 1811|there|0.15
+59|The Book of Genesis|there|0.26
+59|Inaugural Address Corpus|there|0.12
+59|Chat Corpus|there|0.27
+59|Monty Python and the Holy Grail|there|0.15
+59|Wall Street Journal|there|0.07
+59|Personals Corpus|there|0.06
+59|The Man Who Was Thursday by G . K . Chesterton 1908|there|0.21
+60|Moby Dick by Herman Melville 1851|overhead|0.00
+60|Sense and Sensibility by Jane Austen 1811|overhead|0.00
+60|The Book of Genesis|overhead|0.00
+60|Inaugural Address Corpus|overhead|0.00
+60|Chat Corpus|overhead|0.00
+60|Monty Python and the Holy Grail|overhead|0.00
+60|Wall Street Journal|overhead|0.00
+60|Personals Corpus|overhead|0.00
+60|The Man Who Was Thursday by G . K . Chesterton 1908|overhead|0.00
+61|Moby Dick by Herman Melville 1851|low|0.01
+61|Sense and Sensibility by Jane Austen 1811|low|0.02
+61|The Book of Genesis|low|0.00
+61|Inaugural Address Corpus|low|0.00
+61|Chat Corpus|low|0.00
+61|Monty Python and the Holy Grail|low|0.00
+61|Wall Street Journal|low|0.02
+61|Personals Corpus|low|0.00
+61|The Man Who Was Thursday by G . K . Chesterton 1908|low|0.03
+62|Moby Dick by Herman Melville 1851|forward|0.02
+62|Sense and Sensibility by Jane Austen 1811|forward|0.01
+62|The Book of Genesis|forward|0.00
+62|Inaugural Address Corpus|forward|0.02
+62|Chat Corpus|forward|0.00
+62|Monty Python and the Holy Grail|forward|0.01
+62|Wall Street Journal|forward|0.00
+62|Personals Corpus|forward|0.04
+62|The Man Who Was Thursday by G . K . Chesterton 1908|forward|0.02
+63|Moby Dick by Herman Melville 1851|elsewhere|0.00
+63|Sense and Sensibility by Jane Austen 1811|elsewhere|0.00
+63|The Book of Genesis|elsewhere|0.00
+63|Inaugural Address Corpus|elsewhere|0.00
+63|Chat Corpus|elsewhere|0.00
+63|Monty Python and the Holy Grail|elsewhere|0.00
+63|Wall Street Journal|elsewhere|0.00
+63|Personals Corpus|elsewhere|0.00
+63|The Man Who Was Thursday by G . K . Chesterton 1908|elsewhere|0.00
+64|Moby Dick by Herman Melville 1851|aslant|0.00
+64|Sense and Sensibility by Jane Austen 1811|aslant|0.00
+64|The Book of Genesis|aslant|0.00
+64|Inaugural Address Corpus|aslant|0.00
+64|Chat Corpus|aslant|0.00
+64|Monty Python and the Holy Grail|aslant|0.00
+64|Wall Street Journal|aslant|0.00
+64|Personals Corpus|aslant|0.00
+64|The Man Who Was Thursday by G . K . Chesterton 1908|aslant|0.00
+65|Moby Dick by Herman Melville 1851|atop|0.00
+65|Sense and Sensibility by Jane Austen 1811|atop|0.00
+65|The Book of Genesis|atop|0.00
+65|Inaugural Address Corpus|atop|0.00
+65|Chat Corpus|atop|0.00
+65|Monty Python and the Holy Grail|atop|0.00
+65|Wall Street Journal|atop|0.00
+65|Personals Corpus|atop|0.00
+65|The Man Who Was Thursday by G . K . Chesterton 1908|atop|0.00
+66|Moby Dick by Herman Melville 1851|athwart|0.00
+66|Sense and Sensibility by Jane Austen 1811|athwart|0.00
+66|The Book of Genesis|athwart|0.00
+66|Inaugural Address Corpus|athwart|0.00
+66|Chat Corpus|athwart|0.00
+66|Monty Python and the Holy Grail|athwart|0.00
+66|Wall Street Journal|athwart|0.00
+66|Personals Corpus|athwart|0.00
+66|The Man Who Was Thursday by G . K . Chesterton 1908|athwart|0.00
+67|Moby Dick by Herman Melville 1851|everywhere|0.00
+67|Sense and Sensibility by Jane Austen 1811|everywhere|0.00
+67|The Book of Genesis|everywhere|0.00
+67|Inaugural Address Corpus|everywhere|0.01
+67|Chat Corpus|everywhere|0.00
+67|Monty Python and the Holy Grail|everywhere|0.00
+67|Wall Street Journal|everywhere|0.00
+67|Personals Corpus|everywhere|0.00
+67|The Man Who Was Thursday by G . K . Chesterton 1908|everywhere|0.01
+68|Moby Dick by Herman Melville 1851|downstairs|0.00
+68|Sense and Sensibility by Jane Austen 1811|downstairs|0.00
+68|The Book of Genesis|downstairs|0.00
+68|Inaugural Address Corpus|downstairs|0.00
+68|Chat Corpus|downstairs|0.00
+68|Monty Python and the Holy Grail|downstairs|0.00
+68|Wall Street Journal|downstairs|0.00
+68|Personals Corpus|downstairs|0.00
+68|The Man Who Was Thursday by G . K . Chesterton 1908|downstairs|0.00
+69|Moby Dick by Herman Melville 1851|wide|0.02
+69|Sense and Sensibility by Jane Austen 1811|wide|0.00
+69|The Book of Genesis|wide|0.00
+69|Inaugural Address Corpus|wide|0.01
+69|Chat Corpus|wide|0.00
+69|Monty Python and the Holy Grail|wide|0.01
+69|Wall Street Journal|wide|0.00
+69|Personals Corpus|wide|0.00
+69|The Man Who Was Thursday by G . K . Chesterton 1908|wide|0.00
+70|Moby Dick by Herman Melville 1851|away from|0.00
+70|Sense and Sensibility by Jane Austen 1811|away from|0.00
+70|The Book of Genesis|away from|0.00
+70|Inaugural Address Corpus|away from|0.00
+70|Chat Corpus|away from|0.00
+70|Monty Python and the Holy Grail|away from|0.00
+70|Wall Street Journal|away from|0.00
+70|Personals Corpus|away from|0.00
+70|The Man Who Was Thursday by G . K . Chesterton 1908|away from|0.00
+71|Moby Dick by Herman Melville 1851|inside|0.01
+71|Sense and Sensibility by Jane Austen 1811|inside|0.00
+71|The Book of Genesis|inside|0.00
+71|Inaugural Address Corpus|inside|0.00
+71|Chat Corpus|inside|0.01
+71|Monty Python and the Holy Grail|inside|0.01
+71|Wall Street Journal|inside|0.00
+71|Personals Corpus|inside|0.00
+71|The Man Who Was Thursday by G . K . Chesterton 1908|inside|0.01
+72|Moby Dick by Herman Melville 1851|up|0.19
+72|Sense and Sensibility by Jane Austen 1811|up|0.08
+72|The Book of Genesis|up|0.27
+72|Inaugural Address Corpus|up|0.04
+72|Chat Corpus|up|0.36
+72|Monty Python and the Holy Grail|up|0.21
+72|Wall Street Journal|up|0.15
+72|Personals Corpus|up|0.16
+72|The Man Who Was Thursday by G . K . Chesterton 1908|up|0.23
+73|Moby Dick by Herman Melville 1851|near|0.03
+73|Sense and Sensibility by Jane Austen 1811|near|0.02
+73|The Book of Genesis|near|0.05
+73|Inaugural Address Corpus|near|0.01
+73|Chat Corpus|near|0.03
+73|Monty Python and the Holy Grail|near|0.01
+73|Wall Street Journal|near|0.01
+73|Personals Corpus|near|0.02
+73|The Man Who Was Thursday by G . K . Chesterton 1908|near|0.01
+74|Moby Dick by Herman Melville 1851|anywhere|0.01
+74|Sense and Sensibility by Jane Austen 1811|anywhere|0.00
+74|The Book of Genesis|anywhere|0.00
+74|Inaugural Address Corpus|anywhere|0.00
+74|Chat Corpus|anywhere|0.00
+74|Monty Python and the Holy Grail|anywhere|0.01
+74|Wall Street Journal|anywhere|0.00
+74|Personals Corpus|anywhere|0.00
+74|The Man Who Was Thursday by G . K . Chesterton 1908|anywhere|0.01
+75|Moby Dick by Herman Melville 1851|outdoors|0.00
+75|Sense and Sensibility by Jane Austen 1811|outdoors|0.00
+75|The Book of Genesis|outdoors|0.00
+75|Inaugural Address Corpus|outdoors|0.00
+75|Chat Corpus|outdoors|0.00
+75|Monty Python and the Holy Grail|outdoors|0.01
+75|Wall Street Journal|outdoors|0.00
+75|Personals Corpus|outdoors|0.12
+75|The Man Who Was Thursday by G . K . Chesterton 1908|outdoors|0.00
+76|Moby Dick by Herman Melville 1851|alongside|0.01
+76|Sense and Sensibility by Jane Austen 1811|alongside|0.00
+76|The Book of Genesis|alongside|0.00
+76|Inaugural Address Corpus|alongside|0.00
+76|Chat Corpus|alongside|0.00
+76|Monty Python and the Holy Grail|alongside|0.00
+76|Wall Street Journal|alongside|0.00
+76|Personals Corpus|alongside|0.00
+76|The Man Who Was Thursday by G . K . Chesterton 1908|alongside|0.00
+77|Moby Dick by Herman Melville 1851|westward|0.00
+77|Sense and Sensibility by Jane Austen 1811|westward|0.00
+77|The Book of Genesis|westward|0.00
+77|Inaugural Address Corpus|westward|0.00
+77|Chat Corpus|westward|0.00
+77|Monty Python and the Holy Grail|westward|0.00
+77|Wall Street Journal|westward|0.00
+77|Personals Corpus|westward|0.00
+77|The Man Who Was Thursday by G . K . Chesterton 1908|westward|0.00
+78|Moby Dick by Herman Melville 1851|high|0.04
+78|Sense and Sensibility by Jane Austen 1811|high|0.01
+78|The Book of Genesis|high|0.01
+78|Inaugural Address Corpus|high|0.05
+78|Chat Corpus|high|0.01
+78|Monty Python and the Holy Grail|high|0.01
+78|Wall Street Journal|high|0.03
+78|Personals Corpus|high|0.02
+78|The Man Who Was Thursday by G . K . Chesterton 1908|high|0.04
+79|Moby Dick by Herman Melville 1851|in|1.50
+79|Sense and Sensibility by Jane Austen 1811|in|1.34
+79|The Book of Genesis|in|1.31
+79|Inaugural Address Corpus|in|1.73
+79|Chat Corpus|in|0.79
+79|Monty Python and the Holy Grail|in|0.51
+79|Wall Street Journal|in|1.56
+79|Personals Corpus|in|0.55
+79|The Man Who Was Thursday by G . K . Chesterton 1908|in|1.28
+80|Moby Dick by Herman Melville 1851|northward|0.00
+80|Sense and Sensibility by Jane Austen 1811|northward|0.00
+80|The Book of Genesis|northward|0.00
+80|Inaugural Address Corpus|northward|0.00
+80|Chat Corpus|northward|0.00
+80|Monty Python and the Holy Grail|northward|0.00
+80|Wall Street Journal|northward|0.00
+80|Personals Corpus|northward|0.00
+80|The Man Who Was Thursday by G . K . Chesterton 1908|northward|0.00
+81|Moby Dick by Herman Melville 1851|astride|0.00
+81|Sense and Sensibility by Jane Austen 1811|astride|0.00
+81|The Book of Genesis|astride|0.00
+81|Inaugural Address Corpus|astride|0.00
+81|Chat Corpus|astride|0.00
+81|Monty Python and the Holy Grail|astride|0.00
+81|Wall Street Journal|astride|0.00
+81|Personals Corpus|astride|0.00
+81|The Man Who Was Thursday by G . K . Chesterton 1908|astride|0.00
+82|Moby Dick by Herman Melville 1851|out of|0.00
+82|Sense and Sensibility by Jane Austen 1811|out of|0.00
+82|The Book of Genesis|out of|0.00
+82|Inaugural Address Corpus|out of|0.00
+82|Chat Corpus|out of|0.00
+82|Monty Python and the Holy Grail|out of|0.00
+82|Wall Street Journal|out of|0.00
+82|Personals Corpus|out of|0.00
+82|The Man Who Was Thursday by G . K . Chesterton 1908|out of|0.00
+83|Moby Dick by Herman Melville 1851|opposite|0.01
+83|Sense and Sensibility by Jane Austen 1811|opposite|0.00
+83|The Book of Genesis|opposite|0.00
+83|Inaugural Address Corpus|opposite|0.00
+83|Chat Corpus|opposite|0.00
+83|Monty Python and the Holy Grail|opposite|0.00
+83|Wall Street Journal|opposite|0.00
+83|Personals Corpus|opposite|0.00
+83|The Man Who Was Thursday by G . K . Chesterton 1908|opposite|0.01
+84|Moby Dick by Herman Melville 1851|upwards|0.01
+84|Sense and Sensibility by Jane Austen 1811|upwards|0.00
+84|The Book of Genesis|upwards|0.00
+84|Inaugural Address Corpus|upwards|0.00
+84|Chat Corpus|upwards|0.00
+84|Monty Python and the Holy Grail|upwards|0.00
+84|Wall Street Journal|upwards|0.00
+84|Personals Corpus|upwards|0.00
+84|The Man Who Was Thursday by G . K . Chesterton 1908|upwards|0.00
+85|Moby Dick by Herman Melville 1851|backward|0.00
+85|Sense and Sensibility by Jane Austen 1811|backward|0.00
+85|The Book of Genesis|backward|0.01
+85|Inaugural Address Corpus|backward|0.00
+85|Chat Corpus|backward|0.00
+85|Monty Python and the Holy Grail|backward|0.00
+85|Wall Street Journal|backward|0.00
+85|Personals Corpus|backward|0.00
+85|The Man Who Was Thursday by G . K . Chesterton 1908|backward|0.00
+86|Moby Dick by Herman Melville 1851|off|0.08
+86|Sense and Sensibility by Jane Austen 1811|off|0.04
+86|The Book of Genesis|off|0.04
+86|Inaugural Address Corpus|off|0.01
+86|Chat Corpus|off|0.10
+86|Monty Python and the Holy Grail|off|0.11
+86|Wall Street Journal|off|0.04
+86|Personals Corpus|off|0.00
+86|The Man Who Was Thursday by G . K . Chesterton 1908|off|0.11
+87|Moby Dick by Herman Melville 1851|overseas|0.00
+87|Sense and Sensibility by Jane Austen 1811|overseas|0.00
+87|The Book of Genesis|overseas|0.00
+87|Inaugural Address Corpus|overseas|0.00
+87|Chat Corpus|overseas|0.00
+87|Monty Python and the Holy Grail|overseas|0.00
+87|Wall Street Journal|overseas|0.01
+87|Personals Corpus|overseas|0.00
+87|The Man Who Was Thursday by G . K . Chesterton 1908|overseas|0.00
+88|Moby Dick by Herman Melville 1851|astraddle|0.00
+88|Sense and Sensibility by Jane Austen 1811|astraddle|0.00
+88|The Book of Genesis|astraddle|0.00
+88|Inaugural Address Corpus|astraddle|0.00
+88|Chat Corpus|astraddle|0.00
+88|Monty Python and the Holy Grail|astraddle|0.00
+88|Wall Street Journal|astraddle|0.00
+88|Personals Corpus|astraddle|0.00
+88|The Man Who Was Thursday by G . K . Chesterton 1908|astraddle|0.00
+89|Moby Dick by Herman Melville 1851|left|0.03
+89|Sense and Sensibility by Jane Austen 1811|left|0.07
+89|The Book of Genesis|left|0.06
+89|Inaugural Address Corpus|left|0.02
+89|Chat Corpus|left|0.04
+89|Monty Python and the Holy Grail|left|0.01
+89|Wall Street Journal|left|0.01
+89|Personals Corpus|left|0.00
+89|The Man Who Was Thursday by G . K . Chesterton 1908|left|0.05

@@ -1,0 +1,14 @@
+<!-- Instances -->
+<gn:Class rdf:about="#A">
+	<rdfs:comment xml:lang="en">country, state, region ...</rdfs:comment>
+</gn:Class>
+<gn:Code rdf:about="#A.ADM1" skos:notation="A.ADM1">
+	<skos:definition xml:lang="en">a primary administrative division of a country, such as a state in the United States</skos:definition>
+	<skos:definition xml:lang="ru">первоначальное политико-административное  деление, например, деление США на штаты</skos:definition>
+	<skos:inScheme rdf:resource="#A"/>
+	<skos:prefLabel xml:lang="en">first-order administrative division</skos:prefLabel>
+	<skos:prefLabel xml:lang="sv">första ordningens administrativ avdelning</skos:prefLabel>
+	<skos:prefLabel xml:lang="no">primær administrativ inndeling</skos:prefLabel>
+	<skos:prefLabel xml:lang="ru">политико-административное деление первого порядка</skos:prefLabel>
+	<skos:prefLabel xml:lang="bg">първостепенна административна единица</skos:prefLabel>
+</gn:Code>

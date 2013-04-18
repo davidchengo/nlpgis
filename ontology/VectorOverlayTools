@@ -1,0 +1,6 @@
+ToolBinary or multiple overlayInput data typeOverlay data typeOutput
+IdentityBinaryAnyPolygon or same as inputInput features, split by overlay features
+IntersectMultipleAnyN/AOnly features common to all input layers
+Symmetrical differenceBinaryAnySame as inputFeatures common to either input layer or overlay layer but not both
+UnionMultiplePolygonN/AAll input features
+UpdateBinaryAnyPolygonInput feature geometry replaced by update layer

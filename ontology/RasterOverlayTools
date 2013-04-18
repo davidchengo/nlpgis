@@ -1,0 +1,5 @@
+ToolLocationWhat it does
+Zonal StatisticsZonal toolsetSummarizes values in a raster layer by zones (categories) in another layer—for example, calculate the mean elevation for each vegetation category.
+CombineLocal toolsetAssigns a value to each cell in the output layer based on unique combinations of values from several input layers.
+Weighted OverlayOverlay toolsetAutomates the raster overlay process and lets you assign weights to each layer before adding (you can also specify equal influence to create an unweighted overlay).
+Weighted SumOverlay toolsetOverlays several rasters, multiplying each by their given weight and summing them together.

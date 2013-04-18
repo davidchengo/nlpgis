@@ -1,0 +1,13 @@
+find/VB citites/NNS near/IN Columbus/NNP
+find/VB the/DT city/NN nearest/JJS to/TO Columbus/NNP
+find/VB the/DT nearest/JJS city/NN to/TO Columbus/NNP
+find/VB 10/CD major/JJ cities/NNS around/IN Columbus/NNP
+find/VB Starbucks/NNP along/IN High/NNP Street/NNP
+find/VB restaurants/NNS across/IN the/DT street/NN to/TO Ohio/NNP State/NNP campus/NN
+find/VB a/DT city/NN between/IN Columbus/NNP and/CC Dayton/NNP that/WDT has/VBZ more/JJR than/IN 1000/CD people/NNS
+find/VB parks/NNS in/IN Franklin/NNP County/NNP
+find/VB schools/NNS in/IN Franklin/NNP County/NNP
+find/VB churches/NNS within/IN 10/CD miles/NNS from/IN Delaware/NNP County/NNP
+find/VB state/NN parks/NNS in/IN 5/CD minutes/NNS from/IN Franklin/NNP County/NNP
+calculate/VB the/DT distance/NN between/IN Columbus/NNP and/CC Dayton/NNP
+calculate/VB the/DT distance/NN from/IN Columbus/NNP to/TO Dayton/NNP

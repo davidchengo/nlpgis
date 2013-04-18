@@ -1,0 +1,313 @@
+'''
+Created on Nov 26, 2012
+
+@author: davidchen
+'''
+import Tkinter as tk
+from Tkconstants import ANCHOR
+from Tkinter import StringVar
+from urllib import thishost
+from nltk import *
+from nltk.corpus import wordnet as wn
+from tkFont import *
+from nltk.tag.stanford import POSTagger
+
+
+
+class ParserGUI():
+    def sent_var_callback(self):
+        print "sent var changed"
+        pass
+    
+    def load_sample_sent(self,*args):
+        self.sent_var.set(self.sample_sentence)
+    '''Python sets args to a list containing all the positional arguments when func is called.
+    Used *args here because self.parse_sent is called with no arguments or one argument.'''
+    def parse_sent(self,*args):
+        # load sentence into Your Query
+        st = POSTagger('/home/davidchen/Dropbox/_Ubuntu/project/NLTK/src/lib/wsj-0-18-bidirectional-distsim.tagger',
+                            '/home/davidchen/Dropbox/_Ubuntu/project/NLTK/src/lib/stanford-postagger.jar')
+        #print st.tag('What is the airspeed of an unladen swallow ?'.split())
+        #exit()
+        self.query_var.set(self.sent_var.get())
+        # pos tagging
+        tagged=pos_tag(word_tokenize(self.sent_var.get()))
+        print "nltk tagged:",tagged
+        tagged=st.tag(word_tokenize(self.sent_var.get()))
+        print "stanford tagged",tagged
+        #print tagged
+        a=[token+"/"+pos for (token,pos) in tagged]
+        #print a
+        self.tagging_var.set(" ".join(a)) 
+        
+        # parse tree
+#        V: {<V.*>}          # Verb
+#        PP: {<P> <NP>}      # PP -> P NP
+#        VP: {<V> <NP|PP>*}  # VP -> V (NP|PP)*
+        cp = RegexpParser('''
+            V: {<VB>}
+            NP: {<DT>?<RB>?<JJR>*<JJS>*<JJ>*<NN.*>+}         # NP, '.' is equivalant to '[^{}<>]'
+            PP: {<IN><TO>?<JJ>?<DT>?<NN>?<IN>?}               # Preposition
+        ''')  # tag patterns 
+        tree1=cp.parse(tagged)
+        self.parse_tree_var.set(tree1)
+        
+        # spatial role labeling
+        ''' coding:
+        CONST        CONSTRAINT
+        CONST_QUANT        quantity
+        CONST_PROP    constraint property    
+        SP_OBJ        spatial object
+        SP_CONST        spatial constrain
+        GIS_DATA    gis data
+        GIS_OPER    gis operation
+        '''
+        cp = RegexpParser('''
+            CONST_QUANT: {<DT>?<JJ>?<CD>}
+            CONST_PROP: {<RB>?<JJ.*>+|<CD><NN|NNS><RB>?}
+            CONST: {<CONST_QUANT>?<CONST_PROP>?}
+            SP_OBJ: {<NN.*>+}
+            SP_CONST: {<IN>|<TO>|<JJ|JJS><TO>|<IN><DT>?<NN><IN>}                                       # Preposition
+        ''')
+        tree2=cp.parse(tagged)
+        self.spatial_role_var.set(tree2)
+        
+        # ontological role tagging
+        l=[]
+        self.traverse(tree2,l)
+        self.ontology_var.set("\n".join(l))
+        self.update_view()
+        print "\ndone!"
+        
+    def traverse(self,t,l):
+        '''The try ... except statement has an optional else clause, 
+        which, when present, must follow all except clauses. 
+        It is useful for code that must be executed 
+        if the try clause does not raise an exception.'''
+        try:
+            node=t.node
+            #print node
+            if node in ["SP_OBJ","SP_CONST"]:
+                #print t,len(t)
+                if len(t)==1:        # spatial object is only one word
+                    word=t[0][0]
+                    l.append(self.get_hypernyms(node,word))
+        except Exception,e:   
+            pass
+            #print str(e)
+        else:
+            # Now we know that t.node is defined
+            for child in t:
+                self.traverse(child,l)
+    
+    #ontological role labeling
+    def get_hypernyms(self,node,word):
+        count=0
+        s="\n"+word        
+        print 
+        print word
+        
+        # Synset: a set of synonyms that share a common meaning.
+        if node=="SP_OBJ":
+            syns=wn.synsets(word,'n')
+        elif node=="SP_CONST":
+            syns=wn.synsets(word,'r')
+        for syn in syns[:1]:
+            count+=1
+            if syn.definition:
+                s+="\nDefinition: %s" % (syn.definition)
+            #print " Is-a-type-of(lemma): %s" % ",".join(syn.lemma_names[1:])
+            # a hyponym is a word or phrase whose semantic field[1] is included within that of another word, its hypernym
+            if syn.hyponyms():
+                s+= "\n Is-kind-of(hyponym): %s" % ",".join([" ".join(a.split("_")) for syn in syn.hyponyms() for a in syn.lemma_names if a<>word.lower()])
+            # a more general word than its hyponym
+            # root_hypernyms. common_hypernyms, lowest_common_hypernyms
+            if syn.root_hypernyms():
+                s+= "\n Belongs-to(hypernym): %s" % ",".join([" ".join(a.split("_")) for syn in syn.root_hypernyms() for a in syn.lemma_names if a<>word.lower()])
+            # Holonymy defines the relationship between a term denoting the whole and a term denoting a part of, or a member of, the whole.
+#            if syn.member_holonyms():
+#                print " Is-the-whole-of(holonym): %s" % ",".join([" ".join(a.split("_")) for syn in syn.member_holonyms() for a in syn.lemma_names if a<>word.lower()])
+#            if syn.root_hypernyms():
+#                print " Is-a-part-of(meronymy): %s" % ",".join([" ".join(a.split("_")) for syn in syn.root_hypernyms() for a in syn.lemma_names if a<>word.lower()])
+        #print s
+        #self.ontology_var.set(s)
+        return s
+        
+    def update_view(self):
+        widgets=self.widgets
+        for i in xrange(7,len(widgets)):
+            if i % 2==1:
+                widgets[i].place(x=self.DEFAULT_OFFSET_XX,y=self.get_y_coord1(i-1))
+            else:
+                widgets[i].place(x=0,y=self.get_y_coord2(i-1))
+            widgets[i].update_idletasks()
+            
+        
+    def get_y_coord1(self,i):
+        
+        return self.widgets[i].winfo_y()+self.widgets[i].winfo_height()+self.DEFAULT_OFFSET_Y
+    
+    def get_y_coord2(self,i):
+        return self.widgets[i].winfo_y()+self.widgets[i].winfo_height()+self.DEFAULT_OFFSET_YY
+    
+    def get_x_coord1(self,i=0):
+        
+        return self.widgets[i].winfo_x()+self.widgets[i].winfo_width()+self.DEFAULT_OFFSET_X
+    
+    def get_x_coord2(self,i=0):
+        return self.widgets[i].winfo_x()+self.widgets[i].winfo_width()+self.DEFAULT_OFFSET_XX
+        
+    def __init__(self,root):
+        #self.spatial_relations=self.load_spatial_relations("")
+
+        self.DEFAULT_OFFSET_Y=2;DEFAULT_OFFSET_Y=self.DEFAULT_OFFSET_Y
+        self.DEFAULT_OFFSET_YY=4;DEFAULT_OFFSET_YY=self.DEFAULT_OFFSET_YY
+        self.DEFAULT_OFFSET_X=10;DEFAULT_OFFSET_X=self.DEFAULT_OFFSET_X
+        self.DEFAULT_OFFSET_XX=40;DEFAULT_OFFSET_XX=self.DEFAULT_OFFSET_XX
+        
+        fontTiny = Font(family="Helvetica", size=6)
+        fontSmall = Font(family="Helvetica", size=8)
+        fontAverage = Font(family="Helvetica", size=10)
+        fontBig = Font(family="Helvetica", size=12)
+        fontHuge = Font(family="Helvetica", size=14)
+        fontMonstrous = Font(family="Helvetica", size=18)
+        
+        self.widgets=[]
+        widgets=self.widgets
+        #-------------frame1-------------
+        # self.sample_sentence="a very expensive Chinese restaurant near Ohio State Campus"
+        self.sample_sentence="the shop nearest to the campus"
+
+        # widget 0
+        w=tk.Label(root, text="Please enter the sentence to be parsed:",font=fontBig, fg="red")
+        w.place(x=0,y=self.DEFAULT_OFFSET_Y)
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 1
+        self.sent_var=StringVar()
+        self.sent_var.set("Input your sentence here...")
+        #Associates a Tkinter variable (usually a StringVar) with the message. If the variable is changed, the message text is updated. 
+        WIDTH_ENTRY=100
+        w=tk.Entry(root,textvariable=self.sent_var,width=WIDTH_ENTRY,background="white",font=fontBig)
+        self.sent_var.set(self.sample_sentence)
+        #w.focus_set()
+        w.place(x=0,y=self.get_y_coord1(0))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 2
+        w=tk.Label(root,text="Language:",font=fontAverage)
+        w.place(x=0,y=self.get_y_coord1(1))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 3
+        language_var = tk.StringVar(root)
+        language_var.set("English") # initial value
+        w = tk.OptionMenu(root, language_var, "English", "Chinese")
+        w.place(x=self.get_x_coord1(2),y=self.get_y_coord1(1))
+        w.update_idletasks()
+        widgets.append(w)
+        #language_option.pack(side=tk.LEFT,padx=PADX_LARGE)
+        
+        # wdiget 4
+        w=tk.Label(root,text="Sample Sentence",cursor="cross",relief="raised",font=fontAverage)
+        w.bind("<Button-1>", self.load_sample_sent)
+        
+        w.place(x=self.get_x_coord2(3),y=self.get_y_coord1(1))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 5
+        self.button_parse = tk.Button(root,text="Parse",command=self.parse_sent,font=fontAverage)    # create a step button
+        w=self.button_parse
+        w.bind('<Return>', self.parse_sent)
+        w.place(x=self.get_x_coord1(4),y=self.get_y_coord1(1))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 6
+        w=tk.Label(root,text="Your query",font=fontBig, fg="red")
+        w.place(x=0,y=self.get_y_coord2(5))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 7
+        self.query_var=StringVar()
+        self.query_var.set("Your original query sentence will be here....")
+        w=tk.Label(root,textvariable=self.query_var,bg="white",font=fontHuge)
+        w.place(x=DEFAULT_OFFSET_XX,y=self.get_y_coord1(6))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 8
+        w=tk.Label(root,text="Tagging",font=fontBig, fg="red")
+        w.place(x=0,y=self.get_y_coord1(7))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 9
+        self.tagging_var=StringVar()
+        self.tagging_var.set("Your tagged result will be here....")
+        w=tk.Label(root,textvariable=self.tagging_var,bg="white",font=fontHuge)
+        w.place(x=DEFAULT_OFFSET_XX,y=self.get_y_coord1(8))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # wdiget 10
+        w=tk.Label(root,text="Parse tree",font=fontBig, fg="red")
+        w.place(x=0,y=self.get_y_coord2(9))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 11
+        self.parse_tree_var=StringVar()
+        self.parse_tree_var.set("Your parse tree will be here....")
+        w=tk.Label(root,textvariable=self.parse_tree_var,justify=tk.LEFT,bg="white",font=fontHuge)
+        w.place(x=DEFAULT_OFFSET_XX,y=self.get_y_coord1(10))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 12
+        w=tk.Label(root,text="Spatial role labeling",font=fontBig, fg="red")
+        w.place(x=0,y=self.get_y_coord2(11))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 13
+        self.spatial_role_var=StringVar()
+        self.spatial_role_var.set("Your spatial role labeling result will be here....")
+        w=tk.Label(root,textvariable=self.spatial_role_var,justify=tk.LEFT,bg="white",font=fontHuge)
+        w.place(x=DEFAULT_OFFSET_XX,y=self.get_y_coord1(12))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 14
+        w=tk.Label(root,text="Ontology labeling",font=fontBig, fg="red")
+        w.place(x=0,y=self.get_y_coord2(13))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        # widget 15
+        self.ontology_var=StringVar()
+        self.ontology_var.set("Your ontology labeling result will be here....")
+        w=tk.Label(root,textvariable=self.ontology_var,justify=tk.LEFT,bg="white",font=fontHuge)
+        w.place(x=DEFAULT_OFFSET_XX,y=self.get_y_coord1(14))
+        w.update_idletasks()
+        widgets.append(w)
+        
+        self.parse_sent()
+if __name__ == '__main__':
+
+    root=tk.Tk()
+    # width x height + x_offset + y_offset:
+    WIDTH=1024; HEIGHT=768; X_OFFSET=500; Y_OFFSET=150;
+    root.geometry("%dx%d+%d+%d" % (WIDTH,HEIGHT,X_OFFSET,Y_OFFSET)) 
+    root.title("Geographic Natural Language Parser by Wei Chen (David)")
+
+    frame=tk.Frame(root,width=WIDTH, height=HEIGHT)
+    PADX=5; PADY=5;
+    frame.pack(padx=PADX,pady=PADY)
+    new_gui=ParserGUI(frame)
+    root.mainloop()
