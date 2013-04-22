@@ -1,0 +1,85 @@
+#1	Location Question
+Where is Columbus
+Where are Columbus and Dayton
+Where is Columbus located
+Where are Columbus and Dayton located
+What is the location of Columbus
+Where is the location of Dayton
+What are the locations of Columbus and Dayton
+Where is the location of Columbus
+Where are the locations of Columbus and Dayton
+What is Columbus's location
+What are the geographical coordinates for Columbus and Dayton
+What are the geographic coordinates of Columbus
+#2	Proximity Entity Question
+where are the 3 nearest cities from Columbus
+where are the 3 nearest cities to Columbus
+where are the three nearest cities from Columbus
+where are the three nearest cities to Columbus
+what are the 3 nearest cities from Columbus
+what are the 3 nearest cities to Columbus
+what are the three nearest cities from Columbus
+what are the three nearest cities to Columbus
+which are the 3 nearest cities from Columbus
+which are the 3 nearest cities to Columbus
+which are the three nearest cities from Columbus
+which are the three nearest cities to Columbus
+what 3 cities are the nearest from Columbus
+what 3 cities are the nearest to Columbus
+what three cities are the nearest from Columbus
+what three cities are the nearest to Columbus
+which 3 cities are the nearest from Columbus
+which 3 cities are the nearest to Columbus
+which three cities are the nearest from Columbus
+which three cities are the nearest to Columbus
+where is the nearest city from Columbus
+where is the nearest city to Columbus
+what is the nearest city from Columbus
+what is the nearest city to Columbus
+which is the nearest city from Columbus
+which is the nearest city to Columbus
+what city is the nearest from Columbus
+what city is the nearest to Columbus
+which city is the nearest from Columbus
+which city is the nearest to Columbus
+What 5 cities are the closest to the city of Columbus?
+What are the names of the 3 closest cities to Columbus?
+#3	Proximity Distance Question
+what is the distance between Columbus and Dayton
+what is the distance from Columbus to Dayton
+how far is it between Columbus and Dayton
+how far is it from Columbus to Dayton
+how far is Columbus from Dayton
+how far is Columbus to Dayton
+What is the distance to Dayton from Columbus?
+What distance seperates Columbus from Dayton?
+#4	Proximity Buffer Question
+what cities are within 20 miles from Columbus
+what cities are within 20 miles to Columbus
+what cities are within twenty miles from Columbus
+what cities are within twenty miles to Columbus
+which cities are within 20 miles from Columbus
+which cities are within 20 miles to Columbus
+which cities are within twenty miles from Columbus
+which cities are within twenty miles to Columbus
+how many cities are within 20 miles from Columbus
+how many cities are within 20 miles to Columbus
+how many cities are within twenty miles from Columbus
+how many cities are within twenty miles to Columbus
+what city is within 20 miles from Columbus
+what city is within 20 miles to Columbus
+what city is within twenty miles from Columbus
+what city is within twenty miles to Columbus
+which city is within 20 miles from Columbus
+which city is within 20 miles to Columbus
+which city is within twenty miles from Columbus
+which city is within twenty miles to Columbus
+Which cities are within a 20 mile radius of Columbus
+Which cities are within a 20 mile distance of Columbus
+#5 Relative Location Question
+Where is the location of Columbus with perspective to Dayton
+Where is Columbus with perspective to Dayton
+Where is Columbus relative to Dayton
+Where is the relative location of Columbus to Dayton
+Relative to Dayton where is Columbus
+Which direction of Dayton is Columbus in

@@ -36,6 +36,8 @@ nosetests.xml
 
 # documents and other folders
 *.odp
+*.ppt
+*.pptx
 .settings
 ontology/
 src/lib/

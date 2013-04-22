@@ -1,5 +1,3 @@
-#!C:/ArcGISPython27/ArcGIS10.1/python.exe
-
 '''
 Created on Nov 27, 2012
 
@@ -20,11 +18,8 @@ from class_spatial_query import *
 import cgitb
 
 if __name__ == '__main__':
-    cgitb.enable()
-    s_lst = ["distance between Columbus and Dayton",
-           "distance Columbus Dayton"]
+    s_lst = ["What is Columbus's location"]
     for s in s_lst:
-        print s
         sq = SpatialQuery(s)
-        result = sq.query()
+        sq.query()
         print '----------------------------------------'
