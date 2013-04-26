@@ -1,4 +1,8 @@
-#1	Location Question
+# 1 Location Question
+location of Columbus
+Columbus's location
+coordinates of Columbus
+Columbus's coordinates
 Where is Columbus
 Where are Columbus and Dayton
 Where is Columbus located
@@ -11,7 +15,7 @@ Where are the locations of Columbus and Dayton
 What is Columbus's location
 What are the geographical coordinates for Columbus and Dayton
 What are the geographic coordinates of Columbus
-#2	Proximity Entity Question
+# 2 Proximity Entity Question
 where are the 3 nearest cities from Columbus
 where are the 3 nearest cities to Columbus
 where are the three nearest cities from Columbus
@@ -44,7 +48,7 @@ which city is the nearest from Columbus
 which city is the nearest to Columbus
 What 5 cities are the closest to the city of Columbus?
 What are the names of the 3 closest cities to Columbus?
-#3	Proximity Distance Question
+# 3 Proximity Distance Question
 what is the distance between Columbus and Dayton
 what is the distance from Columbus to Dayton
 how far is it between Columbus and Dayton
@@ -53,7 +57,7 @@ how far is Columbus from Dayton
 how far is Columbus to Dayton
 What is the distance to Dayton from Columbus?
 What distance seperates Columbus from Dayton?
-#4	Proximity Buffer Question
+# 4 Proximity Buffer Question
 what cities are within 20 miles from Columbus
 what cities are within 20 miles to Columbus
 what cities are within twenty miles from Columbus
@@ -76,7 +80,7 @@ which city is within twenty miles from Columbus
 which city is within twenty miles to Columbus
 Which cities are within a 20 mile radius of Columbus
 Which cities are within a 20 mile distance of Columbus
-#5 Relative Location Question
+# 5 Relative Location Question
 Where is the location of Columbus with perspective to Dayton
 Where is Columbus with perspective to Dayton
 Where is Columbus relative to Dayton

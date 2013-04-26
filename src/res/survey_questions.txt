@@ -1,0 +1,88 @@
+Lexi Niekamp
+0.04*5=0.2 each
+1.      Which is Ohio¡¯s smallest county?
+2.      Which is Ohio¡¯s largest county?
+1.      What is the shortest route between Columbus and Cincinnati?
+1.      Which Ohio county has the most cities?
+2.      Which Ohio county has the least cities?
+
+Kevin banks
++0.04*30=1.2
+#1 Location Question
+What is Columbus's location?
+What are the geographical coodinates for Columbus and Dayton?
+Where is High Street in Columbus?
+Where is Broad Street in Columbus?
+Where is Franklin County?
+Where is the location of Dayton?
+Where in Ohio is Columbus?
+ 
+#2 Proximity Entity Questions
+What are the five furthest cities from Columbus?
+Where are the five furthest cities from Columbus?
+What cities are furthest from Columbus?
+What are the names of the 3 closest cities to Columbus?
+What are the names of the three closest cities to Columbus?
+What 5 cities are the closest to the city of Columbus?
+What five cities are the closest to the city of Columbus?
+What are the names of the five furthest cities to Columbus?
+What are the names of the 5 furthest cities to Columbus?
+ 
+#3 Proximity Distance Question
+What is the distance to Dayton from Columbus?
+What is the distance to Columbus from Dayton?
+What distance seperates Columbus from Dayton?
+What distance seperates Dayton fom Columbus?
+How close is it from Dayton to Columbus?
+How close is it to Dayton from Columbus?
+How close is Dayton to Columbus?
+From Dayton to Columbus, what is the distance?
+What is the spatial distance from Clumbus to Dayton?
+ 
+#4 Proximity Buffer Questions
+Which cities are within a 20 mile radius of Columbus?
+Which cities are within a twenty mile radius of Columbus?
+How many cities are there in a 20 mile radius of Columbus?
+How many cities are there in a twenty mile radius of Columbus?
+
+Dana T
+0.04*7=0.28
+Relative location
+Where is the location of Columbus with perspective to Dayton?
+Where is the location of Dayton with perspective to Columbus?
+Proximity Entity
+Which of the ten cities are nearest to Columbus? 
+Which of the ten cities are farthest from Columbus?
+#Proximity Distance
+What is the distance between Ohio's lowest point and Ohio's highest Point (Campbell Hill)?
+#Proximity Buffer
+What cities are within five miles of the Scioto River?
+What cities are located within ten miles of Columbus and along an interstate?
+
+
+Brian Arnold
+0.04*7=0.28
+What cities are within 5 miles of Interstate 70?
+How many cities in Erie County that are within 5 miles of any Interstate route?
+Where are the 4 nearest cities to Toledo?
+What is the difference in the number of cities in Franklin County as opposed to Delaware County?
+How many cities are 10 miles outside of Franklin County?
+How many cities starting with the letter C are in Franklin County?
+How many cities are within Licking County that are with 10 miles from another city?
+
+Gregory Arnold
+0.04*6=0.24
+What county bordering Stark county has the most cities?
+How many counties border along the Ohio River?
+How many counties border along Lake Erie?
+Where are the 3 nearest cities to Athens?
+Where are the 5 nearest cities to New Philadelphia?
+What 3 cities are closest to Canton?
+What is the distance between New Philadelphia and Dover?
+What is the distance between New Philadelphia and Orrville?
+What is the distance between Orrville and Wooster?
+What 3 cities are nearest to Wooster?
+What is the distance from Wooster to Orrville?
+What is the distance from Orrville to New Philadelphia?
+What is the distance from New Philadelphia to Dover?
+How many cities are in Tuscarawas county and are within 5 miles of Interstate 77?
