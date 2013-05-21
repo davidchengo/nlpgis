@@ -38,8 +38,11 @@ nosetests.xml
 *.odp
 *.ppt
 *.pptx
+*.doc
+*.docx
 .settings
 ontology/
 src/lib/
 src/pg/
 src/sqlite
+

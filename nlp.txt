@@ -1,0 +1,614 @@
+﻿Reference Type:  Journal Article
+Record Number: 1708Author: Behrangi, E., Ghasemzadeh, H., Esmaili, K. S. and Bidgoli, B. M.
+Year: 2007
+Title: A geographical question answering system
+Journal: WEBIST 2007: Proceedings of the Third International Conference on Web Information Systems and Technologies, Vol WIA
+Pages: 308-314
+Short Title: A geographical question answering system
+Accession Number: WOS:000250084300044
+Keywords: question answering system
+fuzzy methods
+geographical questions
+Abstract: Question Answering systems are one of the hot topics in context of information retrieval. In this paper, we develop an open-domain Question Answering system for spatial queries. We use Google for gathering raw data from the Web and then in a few iterations density of potential answers will be increased, finally based on a couple of evaluators the best answers are selected to be returned to user. Our proposed algorithm uses fuzzy methods to be more precise. Some experiments have been designed in order to evaluate the performance of our algorithm and results are totally promising. We will describe that how this algorithm can be applied to other type of questions as well.
+Notes: Bgr31
+Times Cited:0
+Cited References Count:10
+URL: <Go to ISI>://WOS:000250084300044
+Author Address: Behrangi, E
+Iran Univ Sci & Technol, Tehran, Iran
+Iran Univ Sci & Technol, Tehran, Iran
+Iran Univ Sci & Technol, Tehran, Iran
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1731Author: Behrangi, E., Ghasemzadeh, H., Esmaili, K. S. and Bidgoli, B. M.
+Year: 2007
+Title: A geographical question answering system
+Journal: WEBIST 2007: Proceedings of the Third International Conference on Web Information Systems and Technologies, Vol WIA
+Pages: 308-314
+Short Title: A geographical question answering system
+Accession Number: WOS:000250084300044
+Keywords: question answering system
+fuzzy methods
+geographical questions
+Abstract: Question Answering systems are one of the hot topics in context of information retrieval. In this paper, we develop an open-domain Question Answering system for spatial queries. We use Google for gathering raw data from the Web and then in a few iterations density of potential answers will be increased, finally based on a couple of evaluators the best answers are selected to be returned to user. Our proposed algorithm uses fuzzy methods to be more precise. Some experiments have been designed in order to evaluate the performance of our algorithm and results are totally promising. We will describe that how this algorithm can be applied to other type of questions as well.
+Notes: Bgr31
+Times Cited:0
+Cited References Count:10
+URL: <Go to ISI>://WOS:000250084300044
+Author Address: Behrangi, E
+Iran Univ Sci & Technol, Tehran, Iran
+Iran Univ Sci & Technol, Tehran, Iran
+Iran Univ Sci & Technol, Tehran, Iran
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1732Author: Ferres, D., Ageno, A. and Rodriguez, H.
+Year: 2006
+Title: The GeoTALP-IR system at GeoCLEF 2005: Experiments using a QA-based IR system, linguistic analysis, and a geographical thesaurus
+Journal: Accessing Multilingual Information Repositories
+Volume: 4022
+Pages: 947-955
+Short Title: The GeoTALP-IR system at GeoCLEF 2005: Experiments using a QA-based IR system, linguistic analysis, and a geographical thesaurus
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000241359000106
+Abstract: This paper describes GeoTALP-IR system, a Geographical Information Retrieval (GIR) system. The system is described and evaluated in the context of our participation in the CLEF 2005 GeoCLEF Monolingual English task.
+The GIR system is based on Lucene and uses a modified version of the Passage Retrieval module of the TALP Question Answering (QA) system presented at CLEF 2004 and TREC 2004 QA evaluation tasks. We designed a Keyword Selection algorithm based on a Linguistic and Geographical Analysis of the topics. A Geographical Thesaurus (GT) has been built using a set of publicly available Geographical Gazetteers and a Geographical Ontology. Our experiments show that the use of a Geographical Thesaurus for Geographical Indexing and Retrieval has improved the performance of our GIR system.
+Notes: Bfe01
+Times Cited:1
+Cited References Count:8
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000241359000106
+Author Address: Ferres, D
+Univ Politecn Catalunya, Software Dept, TALP Res Ctr, Jordi Girona 1-3, Barcelona 08043, Spain
+Univ Politecn Catalunya, Software Dept, TALP Res Ctr, Jordi Girona 1-3, Barcelona 08043, Spain
+Univ Politecn Catalunya, Software Dept, TALP Res Ctr, Barcelona 08043, Spain
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1730Author: Ferres, D. and Rodriguez, H.
+Year: 2007
+Title: TALP at GeoCLEF 2006: Experiments using JIRS and lucene with the ADL feature type thesaurus
+Journal: Evaluation of Multilingual and Multi-modal Information Retrieval
+Volume: 4730
+Pages: 962-969
+Short Title: TALP at GeoCLEF 2006: Experiments using JIRS and lucene with the ADL feature type thesaurus
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000250568000124
+Abstract: This paper describes our experiments in Geographical Information Retrieval (GIR) in the context of our participation in the CLEF 2006 GeoCLEF Monolingual English task. Our system, named TALP-GeoIR, follows a similar architecture of the GeoTALP-IR system presented at GeoCLEF 2005 with some changes in the retrieval modes and the Geographical Knowledge Base (KB).
+The system has four phases performed sequentially: i) a Keyword Selection algorithm based on a linguistic and geographical analysis of the topics: ii) a geographical retrieval with Lucene, iii) a document retrieval task with the JIRS Passage Retrieval (PR) software, and iv) a Document Ranking phase. A Geographical KB has been built using a set of publicly available geographical gazetteers and the Alexandria Digital Library (ADL) Feature Type Thesaurus.
+In our experiments we have used JIRS, a state-of-the-art PR system for Question Answering, for the GIR task. We also have experimented with an approach using both JIRS and Lucene. In this approach JIRS was used only for textual document retrieval and Lucene was used to detect the geographically relevant documents. These experiments show that applying only JIRS we obtain better results than combining JIRS and Lucene.
+Notes: Bgu22
+Times Cited:2
+Cited References Count:8
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000250568000124
+Author Address: Ferres, D
+Univ Politecn Cataluna, TALP Res Ctr, Software Dept, Jordi Girona 1-3, Barcelona 08043, Spain
+Univ Politecn Cataluna, TALP Res Ctr, Software Dept, Jordi Girona 1-3, Barcelona 08043, Spain
+Univ Politecn Cataluna, TALP Res Ctr, Software Dept, Barcelona 08043, Spain
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1701Author: Hartrumpf, S. and Leveling, J.
+Year: 2010
+Title: Recursive Question Decomposition for Answering Complex Geographic Questions
+Journal: Multilingual Information Access Evaluation I: Text Retrieval Experiments
+Volume: 6241
+Pages: 310-317
+Short Title: Recursive Question Decomposition for Answering Complex Geographic Questions
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000286783100036
+Abstract: This paper describes the GIRSA-WP system and the experiments performed for GikiCLEF 2009, the geographic information retrieval task in the question answering track at CLEF 2009. Three runs were submitted. The first one contained only results from the InSicht QA system; it showed high precision, but low recall. The combination with results from the GIR system GIRSA increased recall considerably, but reduced precision. The second run used a standard IR query, while the third run combined such queries with a Boolean query with selected keywords. The evaluation showed that the third run achieved significantly higher mean average precision (MAP) than the second run. In both cases, integrating GIR methods and QA methods was successful in combining their strengths (high precision of deep QA, high recall of GIR), resulting in the third-best performance of automatic runs in GikiCLEF. The overall performance still leaves room for improvements. For example, the multilingual approach is too simple. All processing is done in only one Wikipedia (the German one); results for the nine other languages are collected by following the translation links in Wikipedia.
+Notes: Part i
+Btf32
+Times Cited:0
+Cited References Count:9
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000286783100036
+Author Address: Hartrumpf, S
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1717Author: Hartrumpf, S. and Leveling, J.
+Year: 2010
+Title: Recursive Question Decomposition for Answering Complex Geographic Questions
+Journal: Multilingual Information Access Evaluation I: Text Retrieval Experiments
+Volume: 6241
+Pages: 310-317
+Short Title: Recursive Question Decomposition for Answering Complex Geographic Questions
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000286783100036
+Abstract: This paper describes the GIRSA-WP system and the experiments performed for GikiCLEF 2009, the geographic information retrieval task in the question answering track at CLEF 2009. Three runs were submitted. The first one contained only results from the InSicht QA system; it showed high precision, but low recall. The combination with results from the GIR system GIRSA increased recall considerably, but reduced precision. The second run used a standard IR query, while the third run combined such queries with a Boolean query with selected keywords. The evaluation showed that the third run achieved significantly higher mean average precision (MAP) than the second run. In both cases, integrating GIR methods and QA methods was successful in combining their strengths (high precision of deep QA, high recall of GIR), resulting in the third-best performance of automatic runs in GikiCLEF. The overall performance still leaves room for improvements. For example, the multilingual approach is too simple. All processing is done in only one Wikipedia (the German one); results for the nine other languages are collected by following the translation links in Wikipedia.
+Notes: Part i
+Btf32
+Times Cited:0
+Cited References Count:9
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000286783100036
+Author Address: Hartrumpf, S
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Univ Hagen Fern Univ Hagen, IICS, Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1712Author: Lee, S. and Lee, G. G.
+Year: 2005
+Title: Heuristic methods for reducing errors of geographic named entities learned by bootstrapping
+Journal: Natural Language Processing - Ijcnlp 2005, Proceedings
+Volume: 3651
+Pages: 658-669
+Short Title: Heuristic methods for reducing errors of geographic named entities learned by bootstrapping
+Alternate Journal: Lect Notes Artif Int
+ISSN: 0302-9743
+Accession Number: WOS:000233302600058
+Abstract: One of issues in the bootstrapping for named entity recognition is how to control annotation errors introduced at every iteration. In this paper, we present several heuristics for reducing such errors using external resources such as WordNet, encyclopedia and Web documents. The bootstrapping is applied for identifying and classifying fine-grained geographic named entities, which are useful for applications such as information extraction and question answering, as well as standard named entities such as PERSON and ORGANIZATION. The experiments show the usefulness of the suggested heuristics and the learning curve evaluated at each bootstrapping loop. When our approach was applied to a newspaper corpus, it could achieve 87 F1 value, which is quite promising for the fine-grained named entity recognition task.
+Notes: Bdf92
+Times Cited:1
+Cited References Count:12
+Lecture Notes in Artificial Intelligence
+URL: <Go to ISI>://WOS:000233302600058
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Sci & Chem Engn, San 31,Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Sci & Chem Engn, San 31,Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Sci & Chem Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1714Author: Lee, S. and Lee, G. G.
+Year: 2005
+Title: A bootstrapping approach for geographic named entity annotation
+Journal: Information Retrieval Technology
+Volume: 3411
+Pages: 178-189
+Short Title: A bootstrapping approach for geographic named entity annotation
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000229021600016
+Abstract: Geographic named entities can be classified into many sub-types that are useful for applications such as information extraction and question answering. In this paper, we present a bootstrapping algorithm for the task of geographic named entity annotation. In the initial stage, we annotate a raw corpus using seeds. From the initial annotation, boundary patterns are learned and applied to the corpus again to annotate new candidates. Type verification is adopted to reduce over-generation. One sense per discourse principle increases positive instances and also corrects mistaken annotations. As the bootstrapping loop proceeds, the annotated instances are increased gradually and the learned boundary patterns become gradually richer.
+Notes: Bcf37
+Times Cited:1
+Cited References Count:11
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000229021600016
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31 Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31 Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1725Author: Lee, S. and Lee, G. G.
+Year: 2005
+Title: A bootstrapping approach for geographic named entity annotation
+Journal: Information Retrieval Technology
+Volume: 3411
+Pages: 178-189
+Short Title: A bootstrapping approach for geographic named entity annotation
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000229021600016
+Abstract: Geographic named entities can be classified into many sub-types that are useful for applications such as information extraction and question answering. In this paper, we present a bootstrapping algorithm for the task of geographic named entity annotation. In the initial stage, we annotate a raw corpus using seeds. From the initial annotation, boundary patterns are learned and applied to the corpus again to annotate new candidates. Type verification is adopted to reduce over-generation. One sense per discourse principle increases positive instances and also corrects mistaken annotations. As the bootstrapping loop proceeds, the annotated instances are increased gradually and the learned boundary patterns become gradually richer.
+Notes: Bcf37
+Times Cited:1
+Cited References Count:11
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000229021600016
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31 Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31 Hyoja Dong, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 918Author: Lee, S. and Lee, G. G.
+Year: 2007
+Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Journal: Information Systems
+Volume: 32
+Issue: 4
+Pages: 575-592
+Date: Jun
+Short Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Alternate Journal: Inform Syst
+ISSN: 0306-4379
+DOI: Doi 10.1016/J.Is.2006.03.001
+Accession Number: ISI:000244992600004
+Keywords: bootstrapping
+geographic named entity annotation
+phrasal context
+error correcting heuristics
+location normalization
+Abstract: Geographic named entities can be classified into many sub-types that are useful for applications such as information extraction and question answering. In this paper, we present a high-performance bootstrapping algorithm with error correction heuristics and location normalization for the task of geographic named entity annotation with seven sub-types. Location normalization additionally resolves ambiguities of entities with same name and sub-types. In the initial stage, we annotate a raw corpus using a large set of seeds which is automatically selected from a gazetteer so that its quality does not depend on a specific training corpus. From the initial annotation, boundary patterns reflecting phrasal context are learned and applied to the corpus again to obtain new annotation which passes through error correction heuristics. As the bootstrapping loop proceeds, the annotated instances are gradually increased and the learned boundary patterns become gradually richer and more accurate. Through experiments, we explore inter/intra-phrasal context which reflects syntactic constraints of a named entity and several heuristic knowledge for correcting annotation errors introduced by incomplete boundary patterns. The experiments show the effect of the strategies on the learning curve. When our bootstrapping approach was applied to a newspaper corpus, it could achieve 89 F1 value. And the method suggested for location normalization could achieve 95% accuracy at instance level. (C) 2006 Elsevier B.V. All rights reserved.
+Notes: 147GY
+Times Cited:3
+Cited References Count:17
+URL: <Go to ISI>://000244992600004
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1707Author: Lee, S. and Lee, G. G.
+Year: 2007
+Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Journal: Information Systems
+Volume: 32
+Issue: 4
+Pages: 575-592
+Date: Jun
+Short Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Alternate Journal: Inform Syst
+ISSN: 0306-4379
+DOI: Doi 10.1016/J.Is.2006.03.001
+Accession Number: WOS:000244992600004
+Keywords: bootstrapping
+geographic named entity annotation
+phrasal context
+error correcting heuristics
+location normalization
+Abstract: Geographic named entities can be classified into many sub-types that are useful for applications such as information extraction and question answering. In this paper, we present a high-performance bootstrapping algorithm with error correction heuristics and location normalization for the task of geographic named entity annotation with seven sub-types. Location normalization additionally resolves ambiguities of entities with same name and sub-types. In the initial stage, we annotate a raw corpus using a large set of seeds which is automatically selected from a gazetteer so that its quality does not depend on a specific training corpus. From the initial annotation, boundary patterns reflecting phrasal context are learned and applied to the corpus again to obtain new annotation which passes through error correction heuristics. As the bootstrapping loop proceeds, the annotated instances are gradually increased and the learned boundary patterns become gradually richer and more accurate. Through experiments, we explore inter/intra-phrasal context which reflects syntactic constraints of a named entity and several heuristic knowledge for correcting annotation errors introduced by incomplete boundary patterns. The experiments show the effect of the strategies on the learning curve. When our bootstrapping approach was applied to a newspaper corpus, it could achieve 89 F1 value. And the method suggested for location normalization could achieve 95% accuracy at instance level. (C) 2006 Elsevier B.V. All rights reserved.
+Notes: 147GY
+Times Cited:3
+Cited References Count:17
+URL: <Go to ISI>://WOS:000244992600004
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1721Author: Lee, S. and Lee, G. G.
+Year: 2007
+Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Journal: Information Systems
+Volume: 32
+Issue: 4
+Pages: 575-592
+Date: Jun
+Short Title: Exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation
+Alternate Journal: Inform Syst
+ISSN: 0306-4379
+DOI: Doi 10.1016/J.Is.2006.03.001
+Accession Number: WOS:000244992600004
+Keywords: bootstrapping
+geographic named entity annotation
+phrasal context
+error correcting heuristics
+location normalization
+Abstract: Geographic named entities can be classified into many sub-types that are useful for applications such as information extraction and question answering. In this paper, we present a high-performance bootstrapping algorithm with error correction heuristics and location normalization for the task of geographic named entity annotation with seven sub-types. Location normalization additionally resolves ambiguities of entities with same name and sub-types. In the initial stage, we annotate a raw corpus using a large set of seeds which is automatically selected from a gazetteer so that its quality does not depend on a specific training corpus. From the initial annotation, boundary patterns reflecting phrasal context are learned and applied to the corpus again to obtain new annotation which passes through error correction heuristics. As the bootstrapping loop proceeds, the annotated instances are gradually increased and the learned boundary patterns become gradually richer and more accurate. Through experiments, we explore inter/intra-phrasal context which reflects syntactic constraints of a named entity and several heuristic knowledge for correcting annotation errors introduced by incomplete boundary patterns. The experiments show the effect of the strategies on the learning curve. When our bootstrapping approach was applied to a newspaper corpus, it could achieve 89 F1 value. And the method suggested for location normalization could achieve 95% accuracy at instance level. (C) 2006 Elsevier B.V. All rights reserved.
+Notes: 147GY
+Times Cited:3
+Cited References Count:17
+URL: <Go to ISI>://WOS:000244992600004
+Author Address: Lee, S
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, San 31, Pohang 790784, South Korea
+Pohang Univ Sci & Technol, Dept Comp Sci & Engn, Pohang 790784, South Korea
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1704Author: Leveling, J. and Hartrumpf, S.
+Year: 2008
+Title: Inferring Location Names for Geographic Information Retrieval
+Journal: Advances in Multilingual and Multimodal Information Retrieval
+Volume: 5152
+Pages: 773-780
+Short Title: Inferring Location Names for Geographic Information Retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000260420000097
+Abstract: For the participation of GIRSA at the GeoCLEF 2007 task, two innovative features were introduced to the geographic information retrieval (GIR) system: identification and normalization of location indicators, i.e. text segments from which a geographic scope can be inferred, and the application of techniques from question answering. In an extension of a previously performed experiment, the latter approach was combined with an approach using semantic networks for geographic retrieval. When using the topic title and description, the best performance was achieved by the combination of approaches (0.196 mean average precision, MAP); adding location names from the narrative part increased MAP to 0.258. Results indicate that 1) employing normalized location indicators improves MAP significantly and increases the number of relevant documents found; 2) additional location names from the narrative increase MAP and recall, and 3) the semantic network approach has a high initial precision and even adds some relevant documents which were previously not found. For the bilingual experiments, English queries were translated into German by the Promt machine translation web service. Performance for these experiments is generally lower. The baseline experiment (0.114 MAP) is clearly outperformed, achieving the best performance for a setup using title, description, and narrative (0.209 MAP).
+Notes: Bik64
+Times Cited:3
+Cited References Count:8
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000260420000097
+Author Address: Leveling, J
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1720Author: Leveling, J. and Hartrumpf, S.
+Year: 2008
+Title: Inferring Location Names for Geographic Information Retrieval
+Journal: Advances in Multilingual and Multimodal Information Retrieval
+Volume: 5152
+Pages: 773-780
+Short Title: Inferring Location Names for Geographic Information Retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000260420000097
+Abstract: For the participation of GIRSA at the GeoCLEF 2007 task, two innovative features were introduced to the geographic information retrieval (GIR) system: identification and normalization of location indicators, i.e. text segments from which a geographic scope can be inferred, and the application of techniques from question answering. In an extension of a previously performed experiment, the latter approach was combined with an approach using semantic networks for geographic retrieval. When using the topic title and description, the best performance was achieved by the combination of approaches (0.196 mean average precision, MAP); adding location names from the narrative part increased MAP to 0.258. Results indicate that 1) employing normalized location indicators improves MAP significantly and increases the number of relevant documents found; 2) additional location names from the narrative increase MAP and recall, and 3) the semantic network approach has a high initial precision and even adds some relevant documents which were previously not found. For the bilingual experiments, English queries were translated into German by the Promt machine translation web service. Performance for these experiments is generally lower. The baseline experiment (0.114 MAP) is clearly outperformed, achieving the best performance for a setup using title, description, and narrative (0.209 MAP).
+Notes: Bik64
+Times Cited:3
+Cited References Count:8
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000260420000097
+Author Address: Leveling, J
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Fern Univ Hagen, IICS, Univ Hagen, D-58084 Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1702Author: Leveling, J. and Hartrumpf, S.
+Year: 2009
+Title: Integrating Methods from IR and QA for Geographic Information Retrieval
+Journal: Evaluating Systems for Multilingual and Multimodal Information Access
+Volume: 5706
+Pages: 851-854
+Short Title: Integrating Methods from IR and QA for Geographic Information Retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000273344500111
+Abstract: This paper describes the participation of GIRSA at Geo-CLEF 2008, the geographic information retrieval task at CLEF. GIRSA combines information retrieval (IR) on geographically annotated data and question answering (QA) employing query decomposition.
+For the monolingual German experiments, several parameter settings were varied: using a single index or separate indexes for content and geographic annotation, using complex term weighting, adding location names from the topic narrative, and merging results from IR and QA, which yields the highest mean average precision (0.2608 MAP). For bilingual experiments, English and Portuguese topics were translated via the web services Applied Language Solutions, Google Translate, and Promt Online Translator.
+For both source languages, Google Translate seems to return the best translations. For English (Portuguese) topics, 60.2% (80.0%) of the maximum MAP for monolingual German experiments, or 0.1571 MAP (0.2085 MAP), is achieved.
+As a post-official experiment, translations of English topics were analysed with a parser. The results were employed to select the best translation for topic titles and descriptions. The corresponding retrieval experiment; achieved 69.7% of the MAP of the best monolingual experiment.
+Notes: Bmq35
+Times Cited:1
+Cited References Count:4
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000273344500111
+Author Address: Leveling, J
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1718Author: Leveling, J. and Hartrumpf, S.
+Year: 2009
+Title: Integrating Methods from IR and QA for Geographic Information Retrieval
+Journal: Evaluating Systems for Multilingual and Multimodal Information Access
+Volume: 5706
+Pages: 851-854
+Short Title: Integrating Methods from IR and QA for Geographic Information Retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000273344500111
+Abstract: This paper describes the participation of GIRSA at Geo-CLEF 2008, the geographic information retrieval task at CLEF. GIRSA combines information retrieval (IR) on geographically annotated data and question answering (QA) employing query decomposition.
+For the monolingual German experiments, several parameter settings were varied: using a single index or separate indexes for content and geographic annotation, using complex term weighting, adding location names from the topic narrative, and merging results from IR and QA, which yields the highest mean average precision (0.2608 MAP). For bilingual experiments, English and Portuguese topics were translated via the web services Applied Language Solutions, Google Translate, and Promt Online Translator.
+For both source languages, Google Translate seems to return the best translations. For English (Portuguese) topics, 60.2% (80.0%) of the maximum MAP for monolingual German experiments, or 0.1571 MAP (0.2085 MAP), is achieved.
+As a post-official experiment, translations of English topics were analysed with a parser. The results were employed to select the best translation for topic titles and descriptions. The corresponding retrieval experiment; achieved 69.7% of the MAP of the best monolingual experiment.
+Notes: Bmq35
+Times Cited:1
+Cited References Count:4
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000273344500111
+Author Address: Leveling, J
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Dublin City Univ, CNGL, Dublin 9, Ireland
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1709Author: Leveling, J., Hartrumpf, S. and Veiel, D.
+Year: 2006
+Title: Using semantic networks for geographic information retrieval
+Journal: Accessing Multilingual Information Repositories
+Volume: 4022
+Pages: 977-986
+Short Title: Using semantic networks for geographic information retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000241359000109
+Abstract: This paper describes our work for the participation at the GeoCLEF task of CLEF 2005. We employ multilayered extended semantic networks for the representation of background knowledge, queries, and documents for geographic information retrieval (GIR). In our approach, geographic concepts from the query network are expanded with concepts which are semantically connected via topological, directional, and proximity relations. We started with an existing geographic knowledge base represented as a semantic network and expanded it with concepts automatically extracted from the GEOnet Names Server.
+Several experiments for GIR on German documents have been performed: a baseline corresponding to a traditional information retrieval approach; a variant expanding thematic, temporal, and geographic descriptors from the semantic network representation of the query; and an adaptation of a question answering (QA) algorithm based on semantic networks. The second experiment is based on a representation of the natural language description of a topic as a semantic network, which is achieved by a deep linguistic analysis. The semantic network is transformed into an intermediate representation of a database query explicitly representing thematic, temporal, and local restrictions. This experiment showed the best performance with respect to mean average precision: 10.53% using the topic title and description. The third experiment, adapting a QA algorithm, uses a modified version of the QA system InSicht. The system matches deep semantic representations of queries or their equivalent or similar variants to semantic networks for document sentences.
+Notes: Bfe01
+Times Cited:2
+Cited References Count:9
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000241359000109
+Author Address: Leveling, J
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1722Author: Leveling, J., Hartrumpf, S. and Veiel, D.
+Year: 2006
+Title: Using semantic networks for geographic information retrieval
+Journal: Accessing Multilingual Information Repositories
+Volume: 4022
+Pages: 977-986
+Short Title: Using semantic networks for geographic information retrieval
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000241359000109
+Abstract: This paper describes our work for the participation at the GeoCLEF task of CLEF 2005. We employ multilayered extended semantic networks for the representation of background knowledge, queries, and documents for geographic information retrieval (GIR). In our approach, geographic concepts from the query network are expanded with concepts which are semantically connected via topological, directional, and proximity relations. We started with an existing geographic knowledge base represented as a semantic network and expanded it with concepts automatically extracted from the GEOnet Names Server.
+Several experiments for GIR on German documents have been performed: a baseline corresponding to a traditional information retrieval approach; a variant expanding thematic, temporal, and geographic descriptors from the semantic network representation of the query; and an adaptation of a question answering (QA) algorithm based on semantic networks. The second experiment is based on a representation of the natural language description of a topic as a semantic network, which is achieved by a deep linguistic analysis. The semantic network is transformed into an intermediate representation of a database query explicitly representing thematic, temporal, and local restrictions. This experiment showed the best performance with respect to mean average precision: 10.53% using the topic title and description. The third experiment, adapting a QA algorithm, uses a modified version of the QA system InSicht. The system matches deep semantic representations of queries or their equivalent or similar variants to semantic networks for document sentences.
+Notes: Bfe01
+Times Cited:2
+Cited References Count:9
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000241359000109
+Author Address: Leveling, J
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Univ Hagen FernUniv Hagen, IICS, D-58084 Hagen, Germany
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1470Author: Perea-Ortega, J. M., Lloret, E., Urena-Lopez, L. A. and Palomar, M.
+Year: 2013
+Title: Application of Text Summarization techniques to the Geographical Information Retrieval task
+Journal: Expert Systems with Applications
+Volume: 40
+Issue: 8
+Pages: 2966-2974
+Date: Jun 15
+Short Title: Application of Text Summarization techniques to the Geographical Information Retrieval task
+Alternate Journal: Expert Syst Appl
+ISSN: 0957-4174
+DOI: DOI 10.1016/j.eswa.2012.12.012
+Accession Number: WOS:000316522900017
+Keywords: geographical information retrieval
+text summarization
+information retrieval
+geoclef
+documents
+system
+web
+Abstract: Automatic Text Summarization has been shown to be useful for Natural Language Processing tasks such as Question Answering or Text Classification and other related fields of computer science such as Information Retrieval. Since Geographical Information Retrieval can be considered as an extension of the Information Retrieval field, the generation of summaries could be integrated into these systems by acting as an intermediate stage, with the purpose of reducing the document length. In this manner, the access time for information searching will be improved, while at the same time relevant documents will be also retrieved. Therefore, in this paper we propose the generation of two types of summaries (generic and geographical) applying several compression rates in order to evaluate their effectiveness in the Geographical Information Retrieval task. The evaluation has been carried out using GeoCLEF as evaluation framework and following an Information Retrieval perspective without considering the geo-reranking phase commonly used in these systems. Although single-document summarization has not performed well in general, the slight improvements obtained for some types of the proposed summaries, particularly for those based on geographical information, made us believe that the integration of Text Summarization with Geographical Information Retrieval may be beneficial, and consequently, the experimental set-up developed in this research work serves as a basis for further investigations in this field. (C) 2012 Elsevier Ltd. All rights reserved.
+Notes: 111LN
+Times Cited:0
+Cited References Count:33
+URL: <Go to ISI>://WOS:000316522900017
+Author Address: Perea-Ortega, JM
+Univ Jaen, Dept Comp Sci, SINAI Res Grp, E-23071 Jaen, Spain
+Univ Jaen, Dept Comp Sci, SINAI Res Grp, E-23071 Jaen, Spain
+Univ Jaen, Dept Comp Sci, SINAI Res Grp, E-23071 Jaen, Spain
+Univ Alicante, Dept Software & Comp Syst, NLP Res Grp, E-03080 Alicante, Spain
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1703Author: Santos, D., Cardoso, N., Carvalho, P., Dornescu, I., Hartrumpf, S., Leveling, J. and Skalban, Y.
+Year: 2009
+Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Journal: Evaluating Systems for Multilingual and Multimodal Information Access
+Volume: 5706
+Pages: 894-905
+Short Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000273344500118
+Keywords: geographic information-retrieval
+clef-2006
+Abstract: This paper reports on the GikiP pilot that took place in 2008 in GeoCLEF. This pilot task requires a combination of methods from geographical information retrieval and question answering to answer queries to the Wikipedia. We start by the task description, providing details on topic choice and evaluation measures. Then we offer a brief motivation from several perspectives, and we present results in detail. A comparison of participants' approaches is then presented, and the paper concludes with improvements for the next edition.
+Notes: Bmq35
+Times Cited:5
+Cited References Count:19
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000273344500118
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1719Author: Santos, D., Cardoso, N., Carvalho, P., Dornescu, I., Hartrumpf, S., Leveling, J. and Skalban, Y.
+Year: 2009
+Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Journal: Evaluating Systems for Multilingual and Multimodal Information Access
+Volume: 5706
+Pages: 894-905
+Short Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000273344500118
+Keywords: geographic information-retrieval
+clef-2006
+Abstract: This paper reports on the GikiP pilot that took place in 2008 in GeoCLEF. This pilot task requires a combination of methods from geographical information retrieval and question answering to answer queries to the Wikipedia. We start by the task description, providing details on topic choice and evaluation measures. Then we offer a brief motivation from several perspectives, and we present results in detail. A comparison of participants' approaches is then presented, and the paper concludes with improvements for the next edition.
+Notes: Bmq35
+Times Cited:5
+Cited References Count:19
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000273344500118
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1728Author: Santos, D., Cardoso, N., Carvalho, P., Dornescu, I., Hartrumpf, S., Leveling, J. and Skalban, Y.
+Year: 2009
+Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Journal: Evaluating Systems for Multilingual and Multimodal Information Access
+Volume: 5706
+Pages: 894-905
+Short Title: GikiP at GeoCLEF 2008: Joining GIR and QA Forces for Querying Wikipedia
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000273344500118
+Keywords: geographic information-retrieval
+clef-2006
+Abstract: This paper reports on the GikiP pilot that took place in 2008 in GeoCLEF. This pilot task requires a combination of methods from geographical information retrieval and question answering to answer queries to the Wikipedia. We start by the task description, providing details on topic choice and evaluation measures. Then we offer a brief motivation from several perspectives, and we present results in detail. A comparison of participants' approaches is then presented, and the paper concludes with improvements for the next edition.
+Notes: Bmq35
+Times Cited:5
+Cited References Count:19
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000273344500118
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1713Author: Schockaert, S., De Cock, M. and Kerre, E. E.
+Year: 2005
+Title: Automatic acquisition of fuzzy footprints
+Journal: On the Move to Meaningful Internet Systems 2005: Otm 2005 Workshops, Proceedings
+Volume: 3762
+Pages: 1077-1086
+Short Title: Automatic acquisition of fuzzy footprints
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000233744700131
+Keywords: information-retrieval
+gazetteers
+Abstract: Gazetteer services are an important component in a wide variety of systems, including geographic search engines and question answering systems. Unfortunately, the footprints provided by gazetteers are often limited to a bounding box or even a centroid. Moreover, for a lot of non-political regions, detailed footprints are nonexistent since these regions tend to have gradual, rather than crisp, boundaries. In this paper we propose an automatic method to approximate the footprints of crisp, as well as imprecise, regions using statements on the web as a starting point. Due to the vague nature of some of these statements, the resulting footprints are represented as fuzzy sets.
+Notes: Bdj19
+Times Cited:3
+Cited References Count:12
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000233744700131
+Author Address: Schockaert, S
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, Krijgslaan 281, B-9000 Ghent, Belgium
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, Krijgslaan 281, B-9000 Ghent, Belgium
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, B-9000 Ghent, Belgium
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1724Author: Schockaert, S., De Cock, M. and Kerre, E. E.
+Year: 2005
+Title: Automatic acquisition of fuzzy footprints
+Journal: On the Move to Meaningful Internet Systems 2005: Otm 2005 Workshops, Proceedings
+Volume: 3762
+Pages: 1077-1086
+Short Title: Automatic acquisition of fuzzy footprints
+Alternate Journal: Lect Notes Comput Sc
+ISSN: 0302-9743
+Accession Number: WOS:000233744700131
+Keywords: information-retrieval
+gazetteers
+Abstract: Gazetteer services are an important component in a wide variety of systems, including geographic search engines and question answering systems. Unfortunately, the footprints provided by gazetteers are often limited to a bounding box or even a centroid. Moreover, for a lot of non-political regions, detailed footprints are nonexistent since these regions tend to have gradual, rather than crisp, boundaries. In this paper we propose an automatic method to approximate the footprints of crisp, as well as imprecise, regions using statements on the web as a starting point. Due to the vague nature of some of these statements, the resulting footprints are represented as fuzzy sets.
+Notes: Bdj19
+Times Cited:3
+Cited References Count:12
+Lecture Notes in Computer Science
+URL: <Go to ISI>://WOS:000233744700131
+Author Address: Schockaert, S
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, Krijgslaan 281, B-9000 Ghent, Belgium
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, Krijgslaan 281, B-9000 Ghent, Belgium
+Univ Ghent, Dept Appl Math & Comp Sci, Fuzziness & Uncertainty Modelling Res Unit, B-9000 Ghent, Belgium
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 1733Author: Smith, L. C. and Lastra, S.
+Year: 2000
+Title: Ready reference on the Internet
+Journal: National Online Meeting, Proceedings 2000
+Pages: 399-405
+Short Title: Ready reference on the Internet
+Accession Number: WOS:000165502800039
+Keywords: internet resources
+ready reference
+reference questions
+search engines
+search strategy
+virtual reference collections
+Abstract: The availability of an increasing number and variety of information sources via the Internet raises questions about their potential value for "ready reference," responding to questions that require basic factual answers. Libraries can supplement their existing reference collections (printed books, microforms, CD-ROMs, and licensed online databases) with access to resources available for free via the Internet. This paper provides a framework for assessing how these new resources can best be used for ready reference and how they compare with materials already purchased or leased by libraries. In particular, Internet equivalents of dictionaries, encyclopedias, directories, almanacs and handbooks, geographical sources, and biographical sources are considered. Concerns regarding Internet-based resources include the frequent difficulty in assessing their scope, currency, and authority as well as their potential instability. Nevertheless, there are a number of instances where these resources are quite valuable in responding to ready reference questions. The paper concludes with a call for more research to determine the efficacy of question answering with and without use of Internet resources, as well as to determine the added value that reference librarians can bring to question answering now that library users have more options for searching by themselves or turning to Web-based question-answering services.
+Notes: Br04z
+Times Cited:0
+Cited References Count:12
+URL: <Go to ISI>://WOS:000165502800039
+Author Address: Univ Illinois, Chicago, IL 60680 USA
+Language: English
+
