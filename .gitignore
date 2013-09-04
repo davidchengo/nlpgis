@@ -45,4 +45,4 @@ ontology/
 src/lib/
 src/pg/
 src/sqlite
-
+*.tif
