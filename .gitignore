@@ -46,4 +46,4 @@ src/lib/
 src/pg/
 src/sqlite
 *.txt
-
+*.tif
