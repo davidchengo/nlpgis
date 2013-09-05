@@ -47,3 +47,4 @@ src/pg/
 src/sqlite
 *.txt
 *.tif
+nlp.Data/
