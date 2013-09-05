@@ -48,3 +48,5 @@ src/sqlite
 *.txt
 *.tif
 nlp.Data/
+*.enl
+.svn/
